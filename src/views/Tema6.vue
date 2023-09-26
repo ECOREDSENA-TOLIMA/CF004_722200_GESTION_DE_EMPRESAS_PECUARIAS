@@ -391,7 +391,7 @@
           .col.movil(data-aos="fade-right")
             a.anexo.mb-4(:href="obtenerLink('/downloads/infografia_interpretacion.pdf')" target="_blank")
               .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
+                img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p #[b Descargar infografía.] Vías de aplicación de medicamentos parenteral. 
 
