@@ -215,130 +215,171 @@ export default {
   },
   complementario: [
     {
-      tema: '7.2. Métodos de control.',
-      referencia: 'Fenavi. (2020). Manejo integrado de plagas en avicultura.',
-      tipo: 'Cartilla web',
-      link:
-        'https://fenavi.org/wp-content/uploads/2020/06/Cartilla_Manejo_Integrado_plagas_Mosca_Junio2020.pdf',
+      tema: '1. Producción pecuaria',
+      referencia:
+        'Hernández, A. (2020). [Video]. YouTube. Sistemas de producción animal.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=5VDR_vtHRLQ',
+    },
+    {
+      tema: '3. Buenas prácticas pecuarias',
+      referencia:
+        'Coasgrop hijos del campo. (2021). Buenas Prácticas Pecuarias (BPP). [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=cN6lFxETmr8',
+    },
+    {
+      tema: '3.2. Implementación',
+      referencia:
+        'La Finca de Hoy. (2019). Requerimientos para certificar una granja pequeña en buenas prácticas pecuarias. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=HUmDzvLu-ho',
+    },
+    {
+      tema: '5. Programa de producción (concepto y características)',
+      referencia:
+        'López, R. (s.f.). Programación anual de actividades de la finca -volumen 9',
+      tipo: 'Cartilla',
+      link: 'https://www.youtube.com/watch?v=5VDR_vtHRLQ',
     },
   ],
   glosario: [
     {
-      termino: 'Acondicionador de suelos',
+      termino: 'Afta',
       significado:
-        'Material de origen orgánico o inorgánico que tienen la propiedad de mejorar las propiedades físicas del suelo.',
+        'Úlcera o llaga abierta y dolorosa en la boca. Las aftas son de color blanco o amarillo y están rodeadas por un área roja y brillante. No son cancerosas (Medline Plus, 2021).',
     },
     {
-      termino: 'Biocontrolador',
+      termino: 'Ataxia',
       significado:
-        'Insecto que se alimenta de otros insectos usualmente empleado para ejercer control de poblaciones de plagas en cultivos y unidades pecuarias.',
+        'Falta de control muscular o de coordinación de los movimientos voluntarios, como caminar o recoger objetos. Como signo de una condición subyacente, la ataxia puede afectar a varios movimientos y crear dificultades en el habla, el movimiento de los ojos y la deglución (Scott, 2009).',
     },
     {
-      termino: 'Desasosiego',
-      significado: 'Intranquilidad, angustia.',
-    },
-    {
-      termino: 'Etológico',
+      termino: 'Biodiversidad',
       significado:
-        'Se refiere a todo lo concerniente al comportamiento animal.',
+        'Diversidad biológica es la variedad de la vida. Este reciente concepto incluye varios niveles de la organización biológica. Abarca a la diversidad de especies de plantas, animales, hongos y microorganismos que viven en un espacio determinado, a su variabilidad genética, a los ecosistemas de los cuales forman parte estas especies y a los paisajes o regiones en donde se ubican los ecosistemas. También incluye los procesos ecológicos y evolutivos que se dan a nivel de genes, especies, ecosistemas y paisajes.',
     },
     {
-      termino: 'Patógeno',
+      termino: 'Bioseguridad',
       significado:
-        'Cualquier organismo, bien sea virus, hongos o bacterias capaces de enfermar a otro ser vivo.',
+        'Conjunto de medidas preventivas, destinadas a mantener el control de factores de riesgo laborales procedentes de agentes biológicos, físicos o químicos, logrando la prevención de impactos nocivos, asegurando que el desarrollo o producto final de dichos procedimientos no atenten contra la salud y seguridad de trabajadores de la salud, pacientes, visitantes y el medio ambiente (Ministerio de Salud Colombiano, 1997).',
     },
     {
-      termino: 'Viricida',
-      significado: 'Producto empleado para controlar virus.',
+      termino: 'BPG',
+      significado:
+        'Buenas Prácticas Ganaderas –BPG- son un sistema de aseguramiento de inocuidad enfocado a la producción primaria, su objetivo es la gestión de riesgos biológicos, físicos y químicos generados en el predio y que pudieran afectar la salud de los consumidores (Instituto colombiano Agropecuario, 2021).',
+    },
+    {
+      termino: 'Cánula',
+      significado:
+        'Tubo corto que se emplea para aplicar medicamentos intramamarios.',
+    },
+    {
+      termino: 'CIPF',
+      significado:
+        'Comisión de Medidas Fitosanitarias que gobierna la Convención Internacional de Protección Fitosanitaria (CIPF), y fue establecida a través del artículo XII del nuevo texto revisado de la CIPF, aprobado en 1997, y funciona como órgano mundial de gobierno de la Convención (Organización de las Naciones Unidas para la Alimentación y la Agricultura, 2019).',
+    },
+    {
+      termino: '<em>Codex Alimentarius</em>',
+      significado:
+        'También conocido como “Código Alimentario”, es un conjunto de normas, directrices y códigos de prácticas aprobados por la Comisión del <em>Codex Alimentarius</em>. La Comisión, conocida también como CAC, constituye el elemento central del Programa Conjunto FAO/OMS sobre Normas Alimentarias y fue establecida por la FAO y la Organización Mundial de la Salud (OMS) con la finalidad de proteger la salud de los consumidores y promover prácticas leales en el comercio alimentario (Organización de las Naciones Unidas para la Alimentación y la Agricultura, 2021).',
+    },
+    {
+      termino: 'Émbolo',
+      significado:
+        'Parte de la jeringa que se presiona para empujar el líquido cuando se inyecta.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Agriavi (2018). Termonebulizador H600. Manual de instrucción. Agriavi. ',
-      link: 'http://www.agriavi.com/pdf/Termo%20H600%20Manual%20Esp.pdf',
+        'Clasificación de las empresas según Decreto 957. (2019). Decreto 957 del Ministerio de Comercio, Industria y Turismo (MinCIT). ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=94550',
     },
     {
       referencia:
-        'Caterpillar. (2007). Manual de operación y mantenimiento manipulador telescópico TH580B. Caterpillar. ',
+        'Cárdenas Mora, Sandra Milena and Guarnizo Cuellar, Fabio, "Costos por órdenes de producción y por procesos" (2015). Administración y economía. 8. ',
       link:
-        'https://csapps.jlg.com/CAGDocuments/MenuDocuments/8C56BD70-FCC4-4391-AFE3-5CECD20379CCSPANISH_TH580B_31200322-C_OMM.pdf',
+        'https://ciencia.lasalle.edu.co/edunisalle_administracion-economia/8',
     },
     {
       referencia:
-        'Fenavi. (2020). Manejo integrado de plagas en avicultura. Fenavi. ',
+        'La empresa como sistema: análisis de los sistemas empresariales. Ade y Economía [Blogsudima] (s.f.). ',
       link:
-        'https://fenavi.org/wp-content/uploads/2020/06/Cartilla_Manejo_Integrado_plagas_Mosca_Junio2020.pdf',
-    },
-    {
-      referencia: 'Ideam. (2010). Estimación de la demanda de agua. Ideam. ',
-      link:
-        'http://documentacion.ideam.gov.co/openbiblio/bvirtual/021888/CAP5.pdf',
+        'https://blogs.udima.es/administracion-y-direccion-de-empresas/libros/introduccion-a-la-organizacion-de-empresas-2/unidad-didactica-1-la-empresa-como-organizacion-los-sistemas-funcionales/2-la-empresa-como-sistema-analisis-de-los-sistemas-empresariales/',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario - ICA. (2014). Resolución del ICA 3651 del 13-09-2014. ICA. ',
+        'FAO. (2004). Código de prácticas sobre buena alimentación animal. ',
       link:
-        'https://www.ica.gov.co/getattachment/b8cb4efd-a1b4-409e-a11d-c81b91f59025/2014R3651.aspx',
+        'http://www.lactodata.info/docs/lib/fao_codigo_alimentacion_animal.pdf',
+    },
+    {
+      referencia: 'FAO. (2020). Programa de alimentación animal. ',
+      link: 'https://www.fao.org/3/a1564s/a1564s03.pdf',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario - ICA. (2014). Resolución del ICA 3652 de 2014. ICA. ',
-      link:
-        'https://www.ica.gov.co/getattachment/124802ad-c49c-470d-809e-a9ce5ad3db76/2014R3652.aspx',
+        'Instituto Colombiano Agropecuario – ICA. (2017). Inocuidad Agricola. ',
+      link: 'https://www.ica.gov.co/areas/agricola/inocuidad',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario - ICA. (2017). Resolución del ICA 30292 de 2017. ICA. ',
+        'Invima. (2020). Guía Técnica para la elaboración de programas sanitarios. Instituto Nacional de Vigilancia de Medicamentos y Alimentos – Invima. ',
       link:
-        'https://fenavi.org/wp-content/uploads/2018/04/RESOLUCION-30292-DE-2017.pdf',
+        'https://www.invima.gov.co/documents/20143/426805/GU%C3%8DA+T%C3%89CNICA+PARA+LA+ELABORACI%C3%93N+DE+PROGRAMAS+SANITARIOS.pdf',
     },
     {
       referencia:
-        'Ministerio de Agricultura y Desarrollo Rural. (2020). Resolución número 136 de 2020. “Por la cual se adopta el Manual de Condiciones de Bienestar Animal propias de cada una de las especies de producción en el sector Agropecuario para las especies équidas, porcinas, ovinas y caprinas”. Ministerio de Agricultura y Desarrollo Rural. ',
+        'Rincón Narváez, J. (2017). Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL.',
       link:
-        'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No.%20000136%20de%202020.pdf',
+        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
     },
     {
       referencia:
-        'Ministerio de Agricultura y Desarrollo Rural. (2020). Resolución número 253 de 2020. “Por la cual se adopta el Manual de Condiciones de Bienestar Animal propias de cada una de las especies de producción en el sector agropecuario; bovina, bufalina, aves de corral y animales acuáticos”. Ministerio de Agricultura y Desarrollo Rural. ',
+        'Ministerio del trabajo (2018). Implementación de los sistemas de gestión de seguridad y salud en el trabajo al año 2020 ',
       link:
-        'https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf',
+        'https://www.mintrabajo.gov.co/relaciones-laborales/riesgos-laborales/sistema-de-gestion-de-seguridad-y-salud-en-el-trabajo/implementacion-de-los-sistemas-de-gestion-de-seguridad-y-salud-en-el-trabajo-al-ano-2020',
     },
     {
       referencia:
-        'Ministerio de Agricultura y Desarrollo Rural. (2020). Resolución número 0253. ',
+        'Instituto Colombiano Agropecuario – ICA. (2021). Buenas prácticas ganaderas en la producción de ganado bovino y bufalino destinado al sacrificio para el consumo humano. ICA. ',
       link:
-        'https://fenavi.org/wp-content/uploads/2020/10/RESOLUCION-0253-DE-2020.pdf',
+        'https://www.ica.gov.co/getattachment/35f0d70e-b2dd-4bfc-ac1f-ba169b5ccdca/Publicacion-5.aspx',
     },
     {
       referencia:
-        'Ministerio de Salud. (2007). Resolución 2115 de 2007. Por medio de la cual se señalan características, instrumentos básicos y frecuencias del sistema de control y vigilancia para la calidad del agua para consumo humano. ',
+        'Instituto Colombiano Agropecuario – ICA. (s.f.). Guía para la elaboración del plan sanitario. ICA. ',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resoluci%C3%B3n_2115_de_2007.pdf',
+        'https://www.ica.gov.co/getattachment/Areas/Pecuaria/Servicios/Inocuidad-en-las-Cadenas-Agroalimentarias/LISTADO-DE-PREDIOS-CERTIFICADOS-EN-BPG/GUIA-PARA-LA-ELABORACION-DEL-PLAN-SANITARIO-1.pdf.aspx?lang=es-CO',
+    },
+    {
+      referencia: 'Medline. (2021). Aftas. ',
+      link: 'https://medlineplus.gov/spanish/ency/article/000998.htm',
     },
     {
       referencia:
-        'Ministerio de Trabajo. (2016). Sistema de gestión de la Seguridad y Salud en el Trabajo (SG-SST) Guía técnica de implementación para Mipymes. Ministerio de Trabajo. ',
+        'Ministerio de Salud de Colombia. (1997). Conductas básicas en bioseguridad: manejo integral. Protocolo básico para el equipo de salud. Ministerio de Salud de Colombia. ',
       link:
-        'https://www.mintrabajo.gov.co/documents/20147/51963/Guia+tecnica+de+implementacion+del+SG+SST+para+Mipymes.pdf/e1acb62b-8a54-0da7-0f24-8f7e6169c178',
+        'https://www.minsalud.gov.co/salud/Documents/observatorio_vih/documentos/prevencion/promocion_prevencion/riesgo_biol%C3%B3gico-bioseguridad/b_bioseguridad/BIOSEGURIDAD.pdf',
     },
     {
       referencia:
-        'Organismo Internacional Regional de Sanidad Agropecuaria – Oirsa. (2013). Buenas prácticas de uso de medicamentos veterinarios y productos afines. Oirsa.',
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura – FAO. (2018). <em>Codex Alimentarius</em>. FAO. Límites máximos de residuos (LMR) y recomendaciones sobre la gestión de riesgos (RGR) para residuos de medicamentos veterinarios en los alimentos ',
+      link:
+        'https://www.fao.org/fao-who-codexalimentarius/sh-proxy/fr/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXM%2B2%252FMRL2s.pdf',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Agricultura y la Alimentación – FAO. (2021). Directrices para reforzar los servicios de sanidad animal en los países en desarrollo, capítulo 5. Recursos Humanos. FAO. ',
+      link:
+        'https://www.fao.org/3/u2200s/u2200s08.htm#cap%C3%ADtulo%205:%20recursos%20humanos',
+    },
+    {
+      referencia:
+        'Scott, C. L. (2009). Mayo Clinic Family Health Book, Libro de Salud Familiar de Mayo Clinic, 5.ª edición',
       link: '',
-    },
-    {
-      referencia:
-        'Porkcolombia. (2013). La desinfección en el transporte, factor clave para el control de la diarrea epidémica porcina PEDv. Porkcolombia ',
-      link:
-        'https://porkcolombia.co/wp-content/uploads/2018/05/4.-Bolet%C3%ADn-PED-III-Desinfectantes.pdf',
-    },
-    {
-      referencia:
-        'Swingtec GmbH. (2019). Manual de instrucciones. Swingtec GmbH. ',
-      link:
-        'https://www.swingtec.de/wp-content/uploads/2019/03/SN_spanisch.pdf',
     },
   ],
   creditos: [
