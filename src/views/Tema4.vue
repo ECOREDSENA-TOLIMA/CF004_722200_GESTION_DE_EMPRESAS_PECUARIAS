@@ -21,39 +21,41 @@
 
     p(data-aos="fade-left").mb-5 La disposición del personal para trabajar es una de las bases de la buena producción pecuaria, tal como se evidencia en el siguiente video:
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/tema4/2.svg' alt='AvatarTop')
-        h2.text-center Personal
-        p.text-center La disposición del personal necesario capacitado y con experiencia es de vital importancia para que se preste un servicio eﬁciente y de calidad en las unidades productivas.
+    .row.justify-content-center.mb-3
+          .col-6
+            SlyderF(columnas="col-lg-12 col-xl-12")
+              .tarjeta(style="background-color:#DBF9BD").p-4
+                .row.justify-content-center.mb-3
+                  .col-12
+                    img(src='@/assets/curso/temas/tema4/2.svg' alt='AvatarTop')
+                h2.text-center Personal
+                p.text-center La disposición del personal necesario capacitado y con experiencia es de vital importancia para que se preste un servicio eﬁciente y de calidad en las unidades productivas.
 
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/tema4/3.svg' alt='AvatarTop')
-        p.text-center En algunas producciones no se cuenta con el personal caliﬁcado y cualiﬁcado, o se asignan personas que no cumplen con los perﬁles propuestos, lo cual diﬁculta el crecimiento y desarrollo de los procesos productivos entorpeciendo la labor productiva. 
+              .tarjeta(style="background-color:#DBF9BD").p-4
+                .row.justify-content-center.mb-3
+                  .col-12
+                    img(src='@/assets/curso/temas/tema4/3.svg' alt='AvatarTop')
+                p.text-center En algunas producciones no se cuenta con el personal caliﬁcado y cualiﬁcado, o se asignan personas que no cumplen con los perﬁles propuestos, lo cual diﬁculta el crecimiento y desarrollo de los procesos productivos entorpeciendo la labor productiva. 
 
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/tema4/2.svg' alt='AvatarTop')
-        p.text-center Los requerimientos de personal en la producción animal abarcan un amplio espectro de oﬁcios, o perﬁles, desde el ámbito profesional al básico, por ejemplo, los médicos veterinarios, administradores, contadores, técnicos o tecnólogos pecuarios, personal auxiliar, operarios, aseadores, celadores, entre otros; que se encuentran desde el ámbito regional, nacional, provincial o internacional.
+              .tarjeta(style="background-color:#DBF9BD").p-4
+                .row.justify-content-center.mb-3
+                  .col-12
+                    img(src='@/assets/curso/temas/tema4/4.svg' alt='AvatarTop')
+                p.text-center Los requerimientos de personal en la producción animal abarcan un amplio espectro de oﬁcios, o perﬁles, desde el ámbito profesional al básico, por ejemplo, los médicos veterinarios, administradores, contadores, técnicos o tecnólogos pecuarios, personal auxiliar, operarios, aseadores, celadores, entre otros; que se encuentran desde el ámbito regional, nacional, provincial o internacional.
 
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/tema4/2.svg' alt='AvatarTop')
-        h2.text-center Capacitación constante
-        p.text-center El personal de las unidades productivas debe cumplir con los criterios de los perﬁles, pero además debe estar en continua capacitación, lo cual facilitara la labor e intervención dentro de los procesos productivos.
+              .tarjeta(style="background-color:#DBF9BD").p-4
+                .row.justify-content-center.mb-3
+                  .col-12
+                    img(src='@/assets/curso/temas/tema4/5.svg' alt='AvatarTop')
+                h2.text-center Capacitación constante
+                p.text-center El personal de las unidades productivas debe cumplir con los criterios de los perﬁles, pero además debe estar en continua capacitación, lo cual facilitara la labor e intervención dentro de los procesos productivos.
 
-      .tarjeta.color-acento-botones.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/tema4/2.svg' alt='AvatarTop')
-        h2.text-center Estabilidad, salud y seguridad
-        p.text-center Pero además deben gozar de todos los beneﬁcios que la ley colombiana ha establecido para los trabajadores como lo son los programas de bienestar, salud y seguridad en el trabajo, prestaciones de salud, riesgos laborales, pensión, entre otras. Ya que estas garantizan que las personas que laboran dentro de las industrias pecuarias gozan de condiciones necesarias para ejercer su labor de forma idónea y que contribuirán en los procesos productivos por su justa remuneración.
+              .tarjeta(style="background-color:#DBF9BD").p-4
+                .row.justify-content-center.mb-3
+                  .col-12
+                    img(src='@/assets/curso/temas/tema4/6.svg' alt='AvatarTop')
+                h2.text-center Estabilidad, salud y seguridad
+                p.text-center Pero además deben gozar de todos los beneﬁcios que la ley colombiana ha establecido para los trabajadores como lo son los programas de bienestar, salud y seguridad en el trabajo, prestaciones de salud, riesgos laborales, pensión, entre otras. Ya que estas garantizan que las personas que laboran dentro de las industrias pecuarias gozan de condiciones necesarias para ejercer su labor de forma idónea y que contribuirán en los procesos productivos por su justa remuneración.
 
 
     separador

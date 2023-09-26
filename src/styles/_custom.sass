@@ -124,3 +124,48 @@ a.boton
       display: none
     i:last-child
       display: block
+
+.BGIMG01
+  border-radius: 15px
+  background-image: url("../assets/curso/temas/tema6/fondo.svg")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center      
+
+.bloque-texto-h
+  position: relative
+  &:before
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    bottom: 40%
+    left: 0
+    right: 65%
+  &__texto
+    position: relative
+    *
+      display: inline
+  i
+    font-size: 2.5em
+    color: $color-acento-contenido
+    &:first-of-type
+      margin-right: 15px
+    &:last-of-type
+      margin-left: 15px
+      vertical-align: text-top
+  &__autor
+    text-align: right
+    position: relative
+  &.color-primario
+    &:before
+      background-color: $color-primario
+  &.color-secundario
+    &:before
+      background-color: $color-secundario
+  &.color-acento-contenido
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    &:before
+      background-color: $color-acento-botones

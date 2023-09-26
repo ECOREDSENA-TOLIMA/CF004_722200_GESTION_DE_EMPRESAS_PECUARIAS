@@ -56,10 +56,6 @@
         .tarjeta.color-secundario.p-4(style="border-radius:0")
           p Para elaborar la programación de las actividades pecuarias es necesario seguir algunos pasos con el fin de estructurar estratégicamente un plan que incluya factores como las necesidades de recursos y el cronograma de actividades de acuerdo con los procesos productivos desarrollados, las fases del mismo y el perfil del personal que está disponible, etc. La siguiente infografía muestra en detalle los pasos a seguir en la construcción de la programación:
 
-    .titulo-sexto.color-acento-contenido
-      h5 Figura ?
-      span #[em ????????]
-
     .row.justify-content-center.align-items-center.mb-5
       .col.desktop(data-aos="fade-right")
         figure
@@ -69,21 +65,6 @@
       .col.movil(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/4-m.svg', alt='?')
-
-    .row.justify-content-center.align-items-center.mb-5
-      .col-10
-        .tarjeta(style="border-radius: 0; background-color:#DBF9BD").p-3
-          .row.justify-content-around.align-items-center
-            .col-auto
-              img(src="@/assets/curso/temas/tema5/5.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Para profundizar más sobre estos conocimientos, se recomienda revisar en el material complementario el video “Anexo 1. Planificación de la Producción Pecuaria” y la cartilla “Programación anual de actividades de la finca”
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/instituciones_MSF__ICA_2017.pdf')" target="_blank")
-                    span Descargar 
-                    i.fas.fa-file-download
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Métodos y especificaciones
