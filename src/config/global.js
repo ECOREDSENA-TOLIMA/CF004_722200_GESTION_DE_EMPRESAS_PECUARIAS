@@ -240,7 +240,7 @@ export default {
       referencia:
         'López, R. (s.f.). Programación anual de actividades de la finca -volumen 9',
       tipo: 'Cartilla',
-      link: 'https://www.youtube.com/watch?v=5VDR_vtHRLQ',
+      link: 'https://repositorio.sena.edu.co/handle/11404/438',
     },
   ],
   glosario: [
