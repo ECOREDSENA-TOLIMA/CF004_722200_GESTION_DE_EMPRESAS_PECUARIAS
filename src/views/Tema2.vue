@@ -26,7 +26,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema2/2.svg', alt='')
+          img(src='@/assets/curso/temas/tema2/2.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.movil(data-aos="fade-right")

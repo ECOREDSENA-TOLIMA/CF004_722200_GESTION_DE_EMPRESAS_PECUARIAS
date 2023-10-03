@@ -154,14 +154,14 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-4
         h4.text-center Procedimiento de inspección o control
-        img(src='@/assets/curso/temas/tema7/14.svg')
+        img(src='@/assets/curso/temas/tema7/14.png')
       .col-8
         .tarjeta(style="background-color: #DBF9BD").p-5.mb-5        
           p Para la elaboración de los diferentes planes de alimentación se deben adquirir materias primas o diferentes alimentos balanceados para suplir las necesidades de las especies, al adquirir estas materias primas o alimentos los fabricantes o distribuidores deben adoptar prácticas de inspección vigilancia y control en las diferentes etapas de elaboración de dicho alimentos, tanto en la etapa de producción, almacenamiento y transporte, asegurando así, que los alimentos destinados para el consumo animal sean ofrecidos de manera inocua y bajo estándares de calidad.
           p La vigilancia de los alimentos balanceados o pienso, ya sea por el fabricante, distribuidor, el productor o el ente regulador, deberá incluir actividades de inspección, muestreo y por último un análisis para determinar las características del alimento y de esta forma, asegurar sus condiciones de consumo.
       .col-4
         h4.text-center Riesgos para la salud
-        img(src='@/assets/curso/temas/tema7/15.svg')
+        img(src='@/assets/curso/temas/tema7/15.png')
       .col-8
         .tarjeta(style="background-color: #DEE4F0").p-5.mb-5         
           p Tener en cuenta que todas las actividades de buenas prácticas de alimentación animal van direccionadas a asegurar la inocuidad de los alimentos para prevenir las diferentes alteraciones a la salud y todos los problemas que estas generan, tanto para los humanos como para los animales, hablando de los retrasos que se puedan ocasionar en los diferentes sistemas productivos, es esencial que los niveles de sustancias no deseables sean demasiado bajas o nulas.
@@ -241,7 +241,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema7/20.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema7/20.png', alt='Texto que describa la imagen')
           
         h2.text-center Almacenamiento ordenado
         p Consiste en ordenar teniendo el flujo y la frecuencia de uso, entrada y salida de materias primas, alimento, etc., evitando mezclas de productos, delimitando cada espacio con los nombres correspondientes, y separándolos entre sí. Así se asegura la inocuidad de estos. No se realiza un uso total del espacio, pero su flujo es mucho más ágil y ordenado.
@@ -249,7 +249,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema7/21.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema7/21.png', alt='Texto que describa la imagen')
           
         h2.text-center Almacenamiento en bloque
         p Las materias primas se organizan por su orden de llegada, almacenando productos de una misma referencia o lote, de esta forma se hacen diferentes grupos, por lo que no se dejan espacios entre las referencias, y se llena el almacén en su gran totalidad Posee características similares al almacenamiento ordenado, pero con la diferencia de que no de dejan espacios entre referencias.
@@ -257,7 +257,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema7/22.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema7/22.png', alt='Texto que describa la imagen')
           
         h2.text-center Almacenamiento o acopio a granel
         p Consiste en almacenar las materias primas o alimento suelto sin empacarlo, es importante la separación de dichas materias primas para evitar mezclas o contaminación, se debe tener en cuenta las características físicas de los insumos, teniendo especial cuidado con las harinas, pues pueden ser muy volátiles y causar contaminación.
@@ -295,7 +295,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-4
-        img(src='@/assets/curso/temas/tema7/27.svg')
+        img(src='@/assets/curso/temas/tema7/27.png')
       .col-8
         p La deficiencia de nutrientes en las diferentes materias primas o los elevados costos para la adquisición de materias primas de calidad, genera en el sistema productivo un retraso, ya que en el animal se ve afectado el desarrollo y expresión genética del animal, ya sea en la ganancia de peso, crecimiento, madurez sexual, entre otros aspectos, que para la producción pecuaria son de vital importancia acortar estos periodos de tiempo para aumentar la producción.
         p Es por esto que la utilización de suplementos puede ser una alternativa para disminuir esta problemática, teniendo en cuenta que no reemplazan ninguna alimentación o ración, ya que lo que ellos hacen es suplir las necesidades o deficiencias de un alimento, bien sea en su componente vitamínico, mineral, energético, grado de digestibilidad, palatabilidad, etc., logrando mejorar dicho alimento para alcanzar las necesidades del animal.
@@ -339,7 +339,7 @@
         .row.mb-5
           .col-md-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
-              img(src='@/assets/curso/temas/tema7/31.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/31.png' alt='AvatarTop')
               //- .tarjeta debe ir acompañado de una de una de estas clases => 
               //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
               //- estas clases tambien tienen un modificador --borde
@@ -350,7 +350,7 @@
 
           .col-md-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
-              img(src='@/assets/curso/temas/tema7/32.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema7/32.png' alt='AvatarTop')
               //- .tarjeta debe ir acompañado de una de una de estas clases => 
               //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
               //- estas clases tambien tienen un modificador --borde
@@ -467,7 +467,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-4
-        img(src='@/assets/curso/temas/tema7/37.svg')
+        img(src='@/assets/curso/temas/tema7/37.png')
       .col-8
         p La composición de los alimentos balanceados generalmente tiene una determinada concentración de ingredientes o materias primas, para así lograr satisfacer los requerimientos energéticos, proteicos, minerales entre otros. Es importante conocer las características nutricionales de un alimento, y así identificar las interacciones que dicho alimento generará en el animal. La gran mayoría de materias primas provienen de los vegetales, aportando diferentes valores nutricionales a un costo relativamente más económico. La ración se define como una provisión diaria de alimento o forraje, mediante la dieta, cumpliendo así con las necesidades del animal según su estado de desarrollo. 
         
@@ -480,7 +480,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema7/38.svg', alt='')
+              img(src='@/assets/curso/temas/tema7/38.png', alt='')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")

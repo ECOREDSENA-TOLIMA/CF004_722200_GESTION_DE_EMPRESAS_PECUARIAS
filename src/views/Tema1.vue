@@ -43,19 +43,19 @@ export default {
     // variables de vue
     datosSlyder: [
       {
-        imagen: require('@/assets/curso/temas/tema1/2.svg'),
+        imagen: require('@/assets/curso/temas/tema1/2.png'),
         leyendaImagen: 'Bovina',
       },
       {
-        imagen: require('@/assets/curso/temas/tema1/3.svg'),
+        imagen: require('@/assets/curso/temas/tema1/3.png'),
         leyendaImagen: 'Porcina',
       },
       {
-        imagen: require('@/assets/curso/temas/tema1/4.svg'),
+        imagen: require('@/assets/curso/temas/tema1/4.png'),
         leyendaImagen: 'Ovina',
       },
       {
-        imagen: require('@/assets/curso/temas/tema1/5.svg'),
+        imagen: require('@/assets/curso/temas/tema1/5.png'),
         leyendaImagen: 'Avícola',
       },
     ],

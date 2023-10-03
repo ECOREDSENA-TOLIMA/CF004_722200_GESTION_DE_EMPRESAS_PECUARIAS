@@ -18,7 +18,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/1.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/1.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -27,7 +27,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/2.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -45,7 +45,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/4.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/4.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -53,7 +53,7 @@
             p CONPES 3458 de 2007 Política Nacional de Sanidad e Inocuidad para la cadena porcícola, CONPES 3468 de 2007 Política Nacional de Sanidad e Inocuidad Para la Cadena Avícola, asignando además funciones a las principales instituciones que hacen parte del sistema en cada eslabón de la cadena productiva siendo garantes de que estas se apliquen de forma correcta. 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/5.png', alt='Texto que describa la imagen')
 
     p(data-aos="fade-left").mb-5 Complementando el contexto se entiende que hay una matriz general de sistemas con jerarquías bien definidas desde la estructura general gubernamental y se evidencia en la siguiente gráfica:
 
@@ -110,7 +110,7 @@
         .row.justify-content-center.align-items-center
           .col-3
             figure
-              img(src='@/assets/curso/temas/tema3/9.svg', alt='')
+              img(src='@/assets/curso/temas/tema3/9.png', alt='')
           .col-9
             .tarjeta(style="background-color:#DBF9BD").p-4
               h3 Sanidad animal y bioseguridad
@@ -154,7 +154,7 @@
         .row.justify-content-center.align-items-center
           .col-3
             figure
-              img(src='@/assets/curso/temas/tema3/10.svg', alt='')
+              img(src='@/assets/curso/temas/tema3/10.png', alt='')
           .col-9
             .tarjeta(style="background-color:#DBF9BD").p-4
               h3 Plan de saneamiento
@@ -177,7 +177,7 @@
         .row.justify-content-center.align-items-center
           .col-3
             figure
-              img(src='@/assets/curso/temas/tema3/11.svg', alt='')
+              img(src='@/assets/curso/temas/tema3/11.png', alt='')
           .col-9
             .tarjeta(style="background-color:#DBF9BD").p-4
               h3 Buenas prácticas de uso de medicamentos veterinarios y alimentación animal 
@@ -205,7 +205,7 @@
         .row.justify-content-center.align-items-center
           .col-3
             figure
-              img(src='@/assets/curso/temas/tema3/12.svg', alt='')
+              img(src='@/assets/curso/temas/tema3/12.png', alt='')
           .col-9
             .tarjeta(style="background-color:#DBF9BD").p-4
               h3 Bienestar animal y personal

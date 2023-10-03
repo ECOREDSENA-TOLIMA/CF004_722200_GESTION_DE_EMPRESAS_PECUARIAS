@@ -205,7 +205,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/7.svg', alt='')
+              img(src='@/assets/curso/temas/tema6/7.jpg', alt='')
               figcaption Nota. Tomada de ICA (s.f.).
 
         .row.justify-content-center.align-items-center.mb-5
@@ -479,7 +479,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema6/27.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/27.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -488,7 +488,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema6/28.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/28.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -497,7 +497,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema6/29.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/29.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -506,7 +506,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema6/30.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/30.png', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -514,7 +514,7 @@
             p En cuanto a la leche, los huevos y la miel, el tiempo de retiro hace referencia al periodo durante el cual debe descartarse la leche, los huevos o la miel, esto con el fin de que los residuos de medicamento y/o sus metabolitos, alcancen niveles de inocuidad aceptados internacionalmente.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema6/31.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema6/31.png', alt='Texto que describa la imagen')
 
     separador
     #t_6_6.titulo-segundo.color-acento-contenido
