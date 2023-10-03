@@ -167,6 +167,12 @@ export default {
           },
         ],
       },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: '<em>Softwares</em> pecuarios',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
