@@ -46,17 +46,19 @@
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/3.svg', alt='')
+              img(src='@/assets/curso/temas/tema6/3.svg', alt='Identificar cuáles son las enfermedades endémicas a las cuales son susceptibles las especies producidas en el predio. Las enfermedades endémicas deben incluir enfermedades parasitarias. Establecer las medidas de prevención y control para las enfermedades identificadas. Incluye: vacunación, desparasitación, diagnóstico y tratamiento. Describir las actividades de manejo que se realizan en el predio (castraciones, topizado, etc.). Cronograma de actividades.')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/3-m.svg', alt='')
+              img(src='@/assets/curso/temas/tema6/3-m.svg', alt='Identificar cuáles son las enfermedades endémicas a las cuales son susceptibles las especies producidas en el predio. Las enfermedades endémicas deben incluir enfermedades parasitarias. Establecer las medidas de prevención y control para las enfermedades identificadas. Incluye: vacunación, desparasitación, diagnóstico y tratamiento. Describir las actividades de manejo que se realizan en el predio (castraciones, topizado, etc.). Cronograma de actividades.')
     separador
     #t_6_1.titulo-segundo.color-acento-contenido
       h2 6.1  Prevención de enfermedades de control oficial
 
-    p(data-aos="fade-left").mb-5 Las enfermedades de control oficial son aquellas que, de acuerdo con lo establecido en las normas internacionales adoptadas por Colombia, se establecen como de interés en el ámbito nacional y se disponen programas de prevención, control y erradicación. De igual manera, se establece su notificación obligatoria y registro. A continuación, encuentra el listado de enfermedades y sus características principales:
+    p(data-aos="fade-left") Las enfermedades de control oficial son aquellas que, de acuerdo con las normas internacionales adoptadas por Colombia, se establecen como de interés en el ámbito nacional y se disponen programas de prevención, control y erradicación. De igual manera, se establece su notificación obligatoria y registro.
+    p(data-aos="fade-left") Además, las enfermedades de control oficial que puedan sufrir las especies pecuarias, deben ser tratadas de inmediato por parte del predio y el ICA, quién es la entidad encargada de priorizar dichas enfermedades
+    p(data-aos="fade-left").mb-5 para evitar problemas mayores que impacten el proceso productivo, las enfermedades que han sido declaradas de control oficial en Colombia por el ICA y para las cuáles se debe vacunar obligatoriamente son las siguientes:
     
     TabsA.color-acento-botones.mb-5
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Fiebre Aftosa")
@@ -114,7 +116,7 @@
               figure  
                 img(src='@/assets/curso/temas/tema6/4.svg', alt='')
             .col-10.mb-5
-              p cambios en su comportamiento, caída e incoordinación del tren posterior, salivación abundante, ceguera, temblores musculares y parálisis. Los animales presentan además pérdida de peso progresivo y deshidratación y posteriormente la muerte. La prevención se realiza a través de vacunación y control de murciélagos hematófagos
+              p cambios en su comportamiento, caída e incoordinación del tren posterior, salivación abundante, ceguera, temblores musculares y parálisis. Los animales presentan además pérdida de peso progresivo y deshidratación y posteriormente la muerte. La prevención se realiza a través de vacunación y control de murciélagos hematófagos.
 
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Enfermedad de <em>Newcastle</em>")
         p.mb-5 Conocida comúnmente como Peste, Moquillo o Ahogazón. La enfermedad de #[em Newcastle] es una infección altamente contagiosa y con frecuencia severa, causada por un virus de la familia de los #[em Paramyxovirus], de distribución cosmopolita. Tiene tres presentaciones: Lentogénica o leve, Mesogénica o moderada, y Velogénica o muy virulenta, el virus puede sobrevivir por largos periodos a temperatura ambiente, especialmente en las heces, pero puede ser destruido por varios agentes físicos y químicos, no resiste pH ácidos ni la exposición a temperaturas de 60 °C por más de 30 min, es sensible al éter, formalina, amonios cuaternarios, agentes fenólicos y oxidantes, clorhexidina e hipoclorito de sodio (6 %). El período de incubación es de 2 a 15 días, pero para efectos del código terrestre de la OIE es de 21.

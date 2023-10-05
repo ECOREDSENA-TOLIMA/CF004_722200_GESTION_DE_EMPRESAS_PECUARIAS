@@ -11,7 +11,7 @@
       .col-2
         img(src='@/assets/curso/temas/tema4/1.svg')
       .col-10
-        p La legislación laboral en Colombia es supervisada por el Ministerio del Trabajo que imparte las normas y ejerce la supervisión de su cumplimiento; en la actualidad las organizaciones están en la obligación de capacitar a los trabajadores de forma periódica en aspectos relacionados con la seguridad y prevención de accidentes laborales. Del mismo modo, los empleados deben cumplir con los lineamientos de prevención de riesgos y su capacitación.
+        p La legislación laboral en Colombia es supervisada por el Ministerio del Trabajo que imparte las normas y ejerce la supervisión de su cumplimiento; en la actualidad las organizaciones están en la obligación de capacitar a los trabajadores de forma periódica en aspectos relacionados con la seguridad y prevención de accidentes laborales. Del mismo modo, los empleados deben cumplir con los lineamientos de prevención de riesgos y su capacitación en este orden.
 
 
 
@@ -19,7 +19,7 @@
     #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1 Recurso humano
 
-    p(data-aos="fade-left").mb-5 La disposición del personal para trabajar es una de las bases de la buena producción pecuaria, tal como se evidencia en el siguiente video:
+    p(data-aos="fade-left").mb-5 La disposición del personal para trabajar es una de las bases de la buena producción pecuaria, tal como se evidencia a continuación:
 
     .row.justify-content-center.mb-3
           .col-6

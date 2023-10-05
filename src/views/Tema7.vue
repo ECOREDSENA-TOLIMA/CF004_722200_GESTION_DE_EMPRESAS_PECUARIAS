@@ -569,7 +569,7 @@
                 td 10-15 % de su peso vivo
               tr
                 td #[b Rumiantes]
-                td 8 a 10% de su peso vivo
+                td 8 a 10 % de su peso vivo
               tr
                 td #[b Porcinos]
                 td 5-6 % de su peso vivo
