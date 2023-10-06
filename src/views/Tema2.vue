@@ -23,6 +23,10 @@
 
     p(data-aos="fade-left").mb-5 Existen diferentes tipos de sistemas productivos de acuerdo con la especie pecuaria que se tenga en producción, debido a que está relacionado con los aspectos etológicos, sanitarios, técnicos y de bienestar para cada una de ellas. En Latinoamérica los principales sistemas de producción que se manejan son los extensivos, intensivos y trashumantes:
 
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 2
+      span #[em Sistemas pecuarios]
+
     .row.justify-content-center.align-items-center.mb-5
       .col(data-aos="fade-right")
         figure
@@ -45,11 +49,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
+          h5 Figura 3
           span #[em Componentes de un sistema productivo]
 
         figure
-          img(src='@/assets/curso/temas/tema2/3.svg', alt='Figura 2 Componentes de un sistema productivo En la figura se observa Granja galpones ensamble: Transporte Equipos Alimento Agua Animales Medicinas Personas Finca Aplican técnicas  Granja, galpones y ensamblaje Distintas edades fisiológicas  Manejo: alimenticio, reproductivo, sanitario, personal e higiénico Productos Excretas Carne en pie Sala de cosecha Procesamiento Consumo humano Tratamiento Bioseguridad Alto potencial contaminante')
+          img(src='@/assets/curso/temas/tema2/3.svg', alt='Figura 3 Componentes de un sistema productivo En la figura se observa Granja galpones ensamble: Transporte Equipos Alimento Agua Animales Medicinas Personas Finca Aplican técnicas  Granja, galpones y ensamblaje Distintas edades fisiológicas  Manejo: alimenticio, reproductivo, sanitario, personal e higiénico Productos Excretas Carne en pie Sala de cosecha Procesamiento Consumo humano Tratamiento Bioseguridad Alto potencial contaminante')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.movil(data-aos="fade-right")

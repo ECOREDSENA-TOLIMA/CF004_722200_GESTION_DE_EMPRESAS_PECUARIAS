@@ -108,18 +108,18 @@
       .col-10
 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 8
+          h5 Figura 12
           span #[em Agentes físicos, químicos y biológicos]
 
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema7/12.svg', alt='Figura 6 Agentes físicos, químicos y biológicos En la figura se observa los agentes físicos causales por el medio ambiente, químicos alteración causada por acción de los cambios químicos de las materias primas, biológicos alteración causada por agentes naturales producto de la descomposición.')
+              img(src='@/assets/curso/temas/tema7/12.svg', alt='Figura 12 Agentes físicos, químicos y biológicos En la figura se observa los agentes físicos causales por el medio ambiente, químicos alteración causada por acción de los cambios químicos de las materias primas, biológicos alteración causada por agentes naturales producto de la descomposición.')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema7/12-m.svg', alt='Figura 6 Agentes físicos, químicos y biológicos En la figura se observa los agentes físicos causales por el medio ambiente, químicos alteración causada por acción de los cambios químicos de las materias primas, biológicos alteración causada por agentes naturales producto de la descomposición.')
+              img(src='@/assets/curso/temas/tema7/12-m.svg', alt='Figura 12 Agentes físicos, químicos y biológicos En la figura se observa los agentes físicos causales por el medio ambiente, químicos alteración causada por acción de los cambios químicos de las materias primas, biológicos alteración causada por agentes naturales producto de la descomposición.')
 
     p.mt-3.p-2 ● #[b Agentes causales de alteración del pienso e ingredientes] 
 
@@ -173,13 +173,13 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 9
+          h5 Figura 13
           span #[em Procesos que alteran la inocuidad de los alimentos]
 
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema7/16.svg', alt='Figura 9 Procesos que alteran la inocuidad de los alimentos En la figura se observa en una balanza, malos procesos de limpieza y desinfección, mala higiene del personal, operarios enfermos, manipulación inadecuada, productos químicos en los alimentos, temperaturas inadecuadas, contaminación cruzada')
+              img(src='@/assets/curso/temas/tema7/16.svg', alt='Figura 13 Procesos que alteran la inocuidad de los alimentos En la figura se observa en una balanza, malos procesos de limpieza y desinfección, mala higiene del personal, operarios enfermos, manipulación inadecuada, productos químicos en los alimentos, temperaturas inadecuadas, contaminación cruzada')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
@@ -196,13 +196,13 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 10
+          h5 Figura 14
           span #[em Acciones del personal en pro de las buenas prácticas de alimentación animal]
 
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema7/17.svg', alt='Figura 10 Acciones del personal en pro de las buenas prácticas de alimentación animal En la figura se observa en orden: limpio y sano, limpie y desinfecte, llevar y suministrar, elementos de protección personal, buenas prácticas de alimentación animal.')
+              img(src='@/assets/curso/temas/tema7/17.svg', alt='Figura 14 Acciones del personal en pro de las buenas prácticas de alimentación animal En la figura se observa en orden: limpio y sano, limpie y desinfecte, llevar y suministrar, elementos de protección personal, buenas prácticas de alimentación animal.')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
@@ -474,13 +474,13 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col
         .titulo-sexto.color-acento-contenido
-          h5 Figura 11
+          h5 Figura 15
           span #[em Alimento balanceado]
 
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema7/38.png', alt='')
+              img(src='@/assets/curso/temas/tema7/38.png', alt='Figura 15 Alimento balanceado En la figura se observan como alimento balanceado el agua, nitrógeno, glucósidos solubles y estructurales, lípidos, vitaminas, aditivos, proteínas y aminoácidos.')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")

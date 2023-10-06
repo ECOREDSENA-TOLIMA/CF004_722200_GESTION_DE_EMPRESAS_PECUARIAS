@@ -21,18 +21,18 @@
       .col-10
 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 5
+          h5 Figura 8
           span #[em Estructura general para establecer plan sanitario y pasos para su elaboración]
 
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/2.svg', alt='Figura 5 Estructura general para establecer plan sanitario y pasos para su elaboración En la figura se observa el alcance, objetivo, consideraciones, desarrollo y registro.')
+              img(src='@/assets/curso/temas/tema6/2.svg', alt='Figura 8 Estructura general para establecer plan sanitario y pasos para su elaboración En la figura se observa el alcance, objetivo, consideraciones, desarrollo y registro.')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/2-m.svg', alt='Figura 5 Estructura general para establecer plan sanitario y pasos para su elaboración En la figura se observa el alcance, objetivo, consideraciones, desarrollo y registro.')
+              img(src='@/assets/curso/temas/tema6/2-m.svg', alt='Figura 8 Estructura general para establecer plan sanitario y pasos para su elaboración En la figura se observa el alcance, objetivo, consideraciones, desarrollo y registro.')
 
     p(data-aos="fade-left").mb-5 En relación con la elaboración del plan sanitario se recomienda tener en cuenta la siguiente estructura:
 
@@ -40,7 +40,7 @@
       .col-10
 
         .titulo-sexto.color-acento-contenido
-          h5 Figura 6
+          h5 Figura 9
           span #[em Estructura de un plan sanitario ]
 
         .row.justify-content-center.align-items-center.mb-5
@@ -198,26 +198,6 @@
                     span Descargar 
                     i.fas.fa-file-download
 
-    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
-      .col-10
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 7
-          span #[em Sistema de alerta temprana]
-
-        .row.justify-content-center.align-items-center.mb-5
-          .col.desktop(data-aos="fade-right")
-            figure
-              img(src='@/assets/curso/temas/tema6/7.jpg', alt='')
-              figcaption Nota. Tomada de ICA (s.f.).
-
-        .row.justify-content-center.align-items-center.mb-5
-          .col.movil(data-aos="fade-right")
-            a.anexo.mb-4(:href="obtenerLink('/downloads/sistema_alertas_tempranas.jpg')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p #[b Descargar Figura 7.] Sistema de alerta temprana 
-
     separador
     #t_6_2.titulo-segundo.color-acento-contenido
       h2 6.2 Área de cuarentena
@@ -249,6 +229,10 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-10
+
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 10
+          span #[em Formas de presentación de los medicamentos]
 
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
@@ -384,11 +368,28 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-10
-        .row.justify-content-center.align-items-center.mb-5
-          .col.desktop(data-aos="fade-right")
+        ImagenInfografica.color-acento-botones
+          template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema6/12.svg', alt='')
 
+          .tarjeta(style="background-color:#DBF9BD").p-3(x="15.9%" y="16.15%" numero="+")
+            .h5.mb-2 Intramuscular
+            p Es la vía de aplicación más utilizada en la administración de medicamentos veterinarios. 
+            p La técnica es muy sencilla, se introduce la aguja de forma recta y profunda en el músculo a inyectar y se pone la jeringa para posteriormente, girarla en el sentido de las manecillas del reloj, con el fin de asegurar la aguja a la jeringa y evitar accidentes o desperdicio de producto, posteriormente, se debe empujar el embolo de la jeringa hacia atrás para confirmar que no se haya punzado algún vaso sanguíneo. Si el embolo se empuja hacia atrás y la jeringa se llena de sangre, se debe retirar la aguja y punzar nuevamente ya que se debe evitar punzar los vasos sanguíneos.
+
+          .tarjeta(style="background-color:#DBF9BD").p-3(x="40.9%" y="16.15%" numero="+")
+            .h5.mb-2 Subcutánea
+            p Esta técnica es utilizada en todas las especies pecuarias, principalmente en la aplicación de vacunas o desparasitantes y consiste en inyectar el medicamento bajo la piel.
+            p La técnica consiste en levantar la piel con los dedos de una mano, e introducir el bisel de la aguja mirando hacia la superficie. En animales grandes, es recomendable introducir la aguja en un ángulo de 90 grados. Las zonas más recomendadas para la aplicación de medicamentos son aquellas donde existan pliegues como en las regiones del dorso, cervical y abdominal.
+
+          .tarjeta(style="background-color:#DBF9BD").p-3(x="61.15%" y="17.7%" numero="+")
+            .h5.mb-2 Intravenosa
+            p Esta vía de aplicación se utiliza para conseguir un efecto rápido. El procedimiento consiste en sujetar al animal, aplicando la técnica de sujeción específica para cada animal, se procede a desinfectar la zona que se va a punzar, es recomendable que antes de realizar la punción, se aplique una ligadura o haga compresión sobre la zona (esto facilitará la observación y localización de la vena), por último, se procede a realizar la punción con el bisel de la aguja hacia arriba y de manera horizontal a la vena. Para comprobar si fue exitoso el procedimiento, se empuja el embolo de la jeringa hacía atrás, si se está en la vena, el contenido de la jeringa se mezclará con sangre, en caso contrario, se debe volver a realizar el procedimiento. Finalmente, después de estar seguros de que la punción se hizo directamente en la vena, se procede a aplicar el medicamento de forma lenta.
+
+          .tarjeta(style="background-color:#DBF9BD").p-3(x="78.9%" y="22.2%" numero="+")
+            .h5.mb-2 Intradérmica
+            p Esta técnica está directamente relacionada con actividades de diagnóstico y se realiza en todas las especies animales. Consiste en aplicar pequeñas cantidades de medicamentos, colocando la aguja de manera horizontal y con la piel estirada. Las zonas más recomendadas en especies grandes son la tabla del cuello y la zona perianal. En especies pequeñas se recomienda realizar la punción en la parte inferior del tórax. En cuanto a los cerdos, se recomienda trabajar en la zona de la oreja.
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
             a.anexo.mb-4(:href="obtenerLink('/downloads/infografia_interpretacion.pdf')" target="_blank")
@@ -566,14 +567,32 @@
     p(data-aos="fade-left").mb-5 Es de aclarar que esta guía solamente es válida para un solo vehículo y para un solo trayecto y aplica para la fecha autorizada. Sin embargo, un solo vehículo podrá transportar animales con diferentes GSMI, de diferentes orígenes y con diferentes destinos y se debe cumplir con los siguientes requisitos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col.desktop(data-aos="fade-right")
-        figure
-          img(src='@/assets/curso/temas/tema6/34.svg', alt='1. Que el origen y el destino cuenten con igual condición sanitaria en cuanto a las enfermedades de control oficial y se encuentre dentro de las mismas zonificaciones declaradas por el ICA. 2. Que se identifiquen los lugares de origen y de destino en la ruta para la movilización de animales. 3. Que los lugares de origen y destino no tengan requisitos sanitarios especiales para autorizar la movilización o para obtener la GSMI. 4. Que las GSMI expedidas se encuentren vigentes dentro del tiempo autorizado para la movilización de los animales.')
-
-    .row.justify-content-center.align-items-center.mb-5
-      .col.movil(data-aos="fade-right")
-        figure
-        img(src='@/assets/curso/temas/tema6/34-m.svg', alt='1. Que el origen y el destino cuenten con igual condición sanitaria en cuanto a las enfermedades de control oficial y se encuentre dentro de las mismas zonificaciones declaradas por el ICA. 2. Que se identifiquen los lugares de origen y de destino en la ruta para la movilización de animales. 3. Que los lugares de origen y destino no tengan requisitos sanitarios especiales para autorizar la movilización o para obtener la GSMI. 4. Que las GSMI expedidas se encuentren vigentes dentro del tiempo autorizado para la movilización de los animales.')
+      .col-8
+        <hr style="border:15px;">
+        .row.justify-content-center.align-items-center 
+          .col-2
+            img(src='@/assets/curso/temas/tema7/23.svg' alt='').p-4
+          .col-10
+            p Que el origen y el destino cuenten con igual condición sanitaria en cuanto a las enfermedades de control oficial y se encuentre dentro de las mismas zonificaciones declaradas por el ICA.
+        <hr style="border:15px;">
+        .row.justify-content-center.align-items-center 
+          .col-2
+            img(src='@/assets/curso/temas/tema7/24.svg' alt='').p-4
+          .col-10
+            p Que se identifiquen los lugares de origen y de destino en la ruta para la movilización de animales.
+        <hr style="border:15px;">
+        .row.justify-content-center.align-items-center 
+          .col-2
+            img(src='@/assets/curso/temas/tema7/25.svg' alt='').p-4
+          .col-10
+            p Que los lugares de origen y destino no tengan requisitos sanitarios especiales para autorizar la movilización o para obtener la GSMI.
+        <hr style="border:15px;">
+        .row.justify-content-center.align-items-center 
+          .col-2
+            img(src='@/assets/curso/temas/tema7/26.svg' alt='').p-4
+          .col-10
+            p Que las GSMI expedidas se encuentren vigentes dentro del tiempo autorizado para la movilización de los animales.
+        <hr style="border:15px;">
         
     p(data-aos="fade-left").mb-5 La expedición de la GSMI se puede expedir de dos formas:
 

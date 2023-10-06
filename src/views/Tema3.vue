@@ -60,11 +60,11 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3
+          h5 Figura 4
           span #[em Instituciones que hacen parte de Sistema de Medidas Sanitarias y Fitosanitarias – MSF de acuerdo con las funciones  ICA (2017)]
 
         figure
-          img(src='@/assets/curso/temas/tema3/6.svg', alt='Figura 3 Instituciones que hacen parte de Sistema de Medidas Sanitarias y Fitosanitarias – MSF de acuerdo con las funciones ICA (2017) En la figura se observa las instituciones por niveles: Política general MPS MADR MAVDT MCIT Coordinación técnica central INVIMA INS ICA SIC Entes operativos locales ETS  Regionales ICA CAR Actividades soporte CI, Universidades Corpoica')
+          img(src='@/assets/curso/temas/tema3/6.svg', alt='Figura 4 Instituciones que hacen parte de Sistema de Medidas Sanitarias y Fitosanitarias – MSF de acuerdo con las funciones ICA (2017) En la figura se observa las instituciones por niveles: Política general MPS MADR MAVDT MCIT Coordinación técnica central INVIMA INS ICA SIC Entes operativos locales ETS  Regionales ICA CAR Actividades soporte CI, Universidades Corpoica')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.movil(data-aos="fade-right")
@@ -86,10 +86,13 @@
 
     p(data-aos="fade-left").mb-5 Implementarlas requiere especial atención, pero se refleja en los beneficios que se evidenciarán tanto para el productor primario, como para el consumidor final del producto animal, dichos beneficios son:
 
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 5
+      span #[em Implementación actividades buenas prácticas]
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         figure
-          img(src='@/assets/curso/temas/tema3/8.svg', alt='')
+          img(src='@/assets/curso/temas/tema3/8.svg', alt='Figura 5 Implementación de actividades buenas prácticas En la figura se observan las actividades de las buenas prácticas ganaderas, materia prima sin contaminación, mejor costo, trazabilidad, mercado global, calidad de vida animal, mejora constante, calidad de vida humana, buena imagen de productos.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.movil(data-aos="fade-right")

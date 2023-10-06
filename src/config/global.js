@@ -338,12 +338,6 @@ export default {
     },
     {
       referencia:
-        'Rincón Narváez, J. (2017). Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL.',
-      link:
-        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
-    },
-    {
-      referencia:
         'Ministerio del trabajo (2018). Implementación de los sistemas de gestión de seguridad y salud en el trabajo al año 2020 ',
       link:
         'https://www.mintrabajo.gov.co/relaciones-laborales/riesgos-laborales/sistema-de-gestion-de-seguridad-y-salud-en-el-trabajo/implementacion-de-los-sistemas-de-gestion-de-seguridad-y-salud-en-el-trabajo-al-ano-2020',

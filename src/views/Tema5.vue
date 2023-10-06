@@ -54,17 +54,21 @@
         img(src='@/assets/curso/temas/tema5/3.svg')
       .col-10
         .tarjeta.color-secundario.p-4(style="border-radius:0")
-          p Para elaborar la programación de las actividades pecuarias es necesario seguir algunos pasos con el fin de estructurar estratégicamente un plan que incluya factores como las necesidades de recursos y el cronograma de actividades de acuerdo con los procesos productivos desarrollados, las fases del mismo y el perfil del personal que está disponible, etc. La siguiente infografía muestra en detalle los pasos a seguir en la construcción de la programación:
+          p Para elaborar la programación de las actividades pecuarias es necesario seguir algunos pasos con el fin de estructurar estratégicamente un plan que incluya factores como las necesidades de recursos y el cronograma de actividades de acuerdo con los procesos productivos desarrollados, las fases del mismo y el perfil del personal que está disponible, etc. A continuación, se muestra en detalle los pasos a seguir en la construcción de la programación:
+
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 6
+      span #[em Programación de actividades pecuarias]
 
     .row.justify-content-center.align-items-center.mb-5
       .col.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema5/4.svg', alt='?')
+          img(src='@/assets/curso/temas/tema5/4.svg', alt='Figura 6 Programación de actividades pecuarias En la figura se observa las actividades como listar las actividades, configurar el gráfico, analizar el cronograma, supervisar el proceso')
 
     .row.justify-content-center.align-items-center.mb-5
       .col.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema5/4-m.svg', alt='?')
+          img(src='@/assets/curso/temas/tema5/4-m.svg', alt='Figura 6 Programación de actividades pecuarias En la figura se observa las actividades como listar las actividades, configurar el gráfico, analizar el cronograma, supervisar el proceso')
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Métodos y especificaciones
@@ -96,18 +100,18 @@
     p(data-aos="fade-left").mb-5 Desde el punto de vista objetivo las labores pecuarias ocupan un lugar importante en los siguientes aspectos:
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 4
+      h5 Figura 7
       span #[em Importancia de las labores pecuarias]
 
     .row.justify-content-center.align-items-center.mb-5
       .col.desktop(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema5/7.png', alt='Figura 4 Suministro de alimentos Ofrece un gran aporte en el abastecimiento de producto alimenticio contribuyendo a la nutrición a través del suministro de proteínas como leche, huevos y carne además de otros productos de consumo como pieles, abonos y fertilizantes. Producción agrícola La utilización del ganado y sus subproductos como las heces, es importante en la producción agrícola, mejorando la estructura y fertilidad del suelo, el ganado también se usa como transporte, llevando insumos, productos agrícolas y/o personas. Destacándose, además, que estas labores contribuyen al medio ambiente. Seguridad financiera El ganado en sí, representa un activo y, por ende, se puede convertir en efectivo o ser garante para un préstamo, lo cual es de importancia en la encomia familiar rural.')
+          img(src='@/assets/curso/temas/tema5/7.png', alt='Figura 7 Suministro de alimentos Ofrece un gran aporte en el abastecimiento de producto alimenticio contribuyendo a la nutrición a través del suministro de proteínas como leche, huevos y carne además de otros productos de consumo como pieles, abonos y fertilizantes. Producción agrícola La utilización del ganado y sus subproductos como las heces, es importante en la producción agrícola, mejorando la estructura y fertilidad del suelo, el ganado también se usa como transporte, llevando insumos, productos agrícolas y/o personas. Destacándose, además, que estas labores contribuyen al medio ambiente. Seguridad financiera El ganado en sí, representa un activo y, por ende, se puede convertir en efectivo o ser garante para un préstamo, lo cual es de importancia en la encomia familiar rural.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col.movil(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema5/7-m.png', alt='Figura 4 Suministro de alimentos Ofrece un gran aporte en el abastecimiento de producto alimenticio contribuyendo a la nutrición a través del suministro de proteínas como leche, huevos y carne además de otros productos de consumo como pieles, abonos y fertilizantes. Producción agrícola La utilización del ganado y sus subproductos como las heces, es importante en la producción agrícola, mejorando la estructura y fertilidad del suelo, el ganado también se usa como transporte, llevando insumos, productos agrícolas y/o personas. Destacándose, además, que estas labores contribuyen al medio ambiente. Seguridad financiera El ganado en sí, representa un activo y, por ende, se puede convertir en efectivo o ser garante para un préstamo, lo cual es de importancia en la encomia familiar rural.')
+          img(src='@/assets/curso/temas/tema5/7-m.png', alt='Figura 7 Suministro de alimentos Ofrece un gran aporte en el abastecimiento de producto alimenticio contribuyendo a la nutrición a través del suministro de proteínas como leche, huevos y carne además de otros productos de consumo como pieles, abonos y fertilizantes. Producción agrícola La utilización del ganado y sus subproductos como las heces, es importante en la producción agrícola, mejorando la estructura y fertilidad del suelo, el ganado también se usa como transporte, llevando insumos, productos agrícolas y/o personas. Destacándose, además, que estas labores contribuyen al medio ambiente. Seguridad financiera El ganado en sí, representa un activo y, por ende, se puede convertir en efectivo o ser garante para un préstamo, lo cual es de importancia en la encomia familiar rural.')
 </template>
 
 <script>
