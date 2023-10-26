@@ -11,10 +11,10 @@
       .col-md-3(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/1.svg' alt='')
       .col-md-9(data-aos="fade-right")
-        p De acuerdo con la FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura) los animales destinados a la producción pecuaria brindan diversos servicios y bienes al ser humano, como los son la leche, la carne, los huevos, las pieles, las plumas, las fibras, tracción y estiércol, entre otras, empero cumplen, además, otras funciones de carácter económico y social en las diferentes comunidades. 
-        p.mb-3 Por ejemplo, un animal como la vaca es muy comercial y aprovechable por los seres humanos, tanto así que muchas personas dicen que de la vaca no se desperdicia nada  
+        p De acuerdo con la FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura) los animales destinados a la producción pecuaria brindan diversos servicios y bienes al ser humano, como son: leche, carne, huevos, pieles, plumas, fibras, tracción y estiércol, entre otras, empero cumplen, además, otras funciones de carácter económico y social en las diferentes comunidades.
+        p.mb-3 Por ejemplo, un animal como la vaca es muy comercial y aprovechable por los seres humanos, tanto así que muchas personas dicen que de la vaca no se desperdicia nada. 
         .tarjeta.p-4(style="border-radius: 0; background-color:#DBF9BD").mb-3
-          p Estas producciones tienen diferentes fines entre los que se destacan principalmente las ventas regionales o el autoconsumo o producción a mayor escala para proveer los mercados a nivel nacional e internacional. Así, el objeto, el tamaño y el fin de la producción es lo que se denomina sistema productivo, es así como los animales rumiantes como el ganado bovino, caprino y ovino, tiende a depender directamente de la tierra. Por tanto, sus sistemas de producción están determinados en gran medida por la agroecología y el uso de la tierra. Los sistemas de producción de especies monogástricas como los cerdos y los pollos dependen más de la demanda de los consumidores y del nivel de inversión de capital.
+          p Estas producciones tienen diferentes fines, entre los que se destacan principalmente las ventas regionales o el autoconsumo o producción a mayor escala para proveer los mercados a nivel nacional e internacional. Así, el objeto, el tamaño y el fin de la producción es lo que se denomina sistema productivo, es así como los animales rumiantes, como el ganado bovino, caprino y ovino, tiende a depender directamente de la tierra. Por tanto, sus sistemas de producción están determinados en gran medida por la agroecología y el uso de la tierra. Los sistemas de producción de especies monogástricas como los cerdos y los pollos dependen más de la demanda de los consumidores y del nivel de inversión de capital.
         
 
     separador
@@ -30,7 +30,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema2/2.png', alt='')
+          img(src='@/assets/curso/temas/tema2/2.png', alt='Figura 2 Sistemas pecuarios En la figura se observa los sistemas extensivos, intensivos y trashumantes')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.movil(data-aos="fade-right")

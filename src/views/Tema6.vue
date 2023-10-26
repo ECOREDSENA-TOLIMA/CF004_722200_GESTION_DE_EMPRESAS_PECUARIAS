@@ -13,7 +13,7 @@
       .col-md-9(data-aos="fade-right")
         p El plan sanitario en las producciones pecuarias es de gran importancia, puesto que este garantiza que se disminuyan los problemas que puedan afectar el sistema de producción y afecten la capacidad productiva y reproductiva en las explotaciones.
         p Este plan debe estar enfocado en establecer actividades que contribuyan de manera sistemática, ordenada, integrada y práctica con la prevención, el control y la erradicación de enfermedades de control oficial y de gran incidencia en las producciones pecuarias. En síntesis, el plan sanitario debe establecer actividades que estén diseñadas en la mitigación de factores de riesgo que puedan afectar la sanidad de los animales. 
-        p Es de aclarar que, aunque se tienen actividades en común (manejo, vacunación, desparasitación), cada plan sanitario debe ser diseñado para las condiciones específicas de cada predio en singular y a su sistema de manejo, ya que las condiciones de varían entre una región y otra, inclusive entre predios.
+        p Es de aclarar que, aunque se tienen actividades en común (manejo, vacunación, desparasitación), cada plan sanitario debe ser diseñado para las condiciones específicas de cada predio en singular y a su sistema de manejo, ya que las condiciones varían entre una región y otra, inclusive entre predios.
         
     p(data-aos="fade-left").mb-5 En la figura que se muestra a continuación, se puede observar la estructura general que se recomienda para establecer un plan sanitario y los pasos para su elaboración: 
 
@@ -27,12 +27,12 @@
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/2.svg', alt='Figura 8 Estructura general para establecer plan sanitario y pasos para su elaboración En la figura se observa el alcance, objetivo, consideraciones, desarrollo y registro.')
+              img(src='@/assets/curso/temas/tema6/2.svg', alt='Figura 8 Alcance En esta fase se explica el contexto de aplicación del plan, el personal encargado de aplicarlo y a quien va dirigido. Objeto Aquí se debe mencionar la intención que se tiene al implementar el plan. Consideraciones Se deben mencionar las consideraciones a tener en cuenta en el momento de la implementación del plan sanitario, las palabras con mayor importancia para la comprensión del plan. Deben describirse las causas que pueden generar algunos peligros o enfermedades, como prevenirlas y los tratamientos. Desarrollo Se plasman todas las actividades y fechas para la implementación del plan. Registros La información de todas las actividades que se desarrollen en el marco del plan, se deben consignar en los registros.')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/2-m.svg', alt='Figura 8 Estructura general para establecer plan sanitario y pasos para su elaboración En la figura se observa el alcance, objetivo, consideraciones, desarrollo y registro.')
+              img(src='@/assets/curso/temas/tema6/2-m.svg', alt='Figura 8 Alcance En esta fase se explica el contexto de aplicación del plan, el personal encargado de aplicarlo y a quien va dirigido. Objeto Aquí se debe mencionar la intención que se tiene al implementar el plan. Consideraciones Se deben mencionar las consideraciones a tener en cuenta en el momento de la implementación del plan sanitario, las palabras con mayor importancia para la comprensión del plan. Deben describirse las causas que pueden generar algunos peligros o enfermedades, como prevenirlas y los tratamientos. Desarrollo Se plasman todas las actividades y fechas para la implementación del plan. Registros La información de todas las actividades que se desarrollen en el marco del plan, se deben consignar en los registros.')
 
     p(data-aos="fade-left").mb-5 En relación con la elaboración del plan sanitario se recomienda tener en cuenta la siguiente estructura:
 
@@ -46,23 +46,22 @@
         .row.justify-content-center.align-items-center.mb-5
           .col.desktop(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/3.svg', alt='Identificar cuáles son las enfermedades endémicas a las cuales son susceptibles las especies producidas en el predio. Las enfermedades endémicas deben incluir enfermedades parasitarias. Establecer las medidas de prevención y control para las enfermedades identificadas. Incluye: vacunación, desparasitación, diagnóstico y tratamiento. Describir las actividades de manejo que se realizan en el predio (castraciones, topizado, etc.). Cronograma de actividades.')
+              img(src='@/assets/curso/temas/tema6/3.svg', alt='Figura 9 Pasos para la realización de un plan sanitario Identificar cuáles son las enfermedades de control oficial a las cuales son susceptibles las especies producidas en el predio. Identificar cuáles son las enfermedades endémicas a las cuales son susceptibles las especies producidas en el predio. Las enfermedades endémicas deben incluir enfermedades parasitarias. Establecer las medidas de prevención y control para las enfermedades identificadas. Incluye: vacunación, desparasitación, diagnóstico y tratamiento. Describir las actividades de manejo que se realizan en el predio (castraciones, topizado, etc.). Cronograma de actividades.')
 
         .row.justify-content-center.align-items-center.mb-5
           .col.movil(data-aos="fade-right")
             figure
-              img(src='@/assets/curso/temas/tema6/3-m.svg', alt='Identificar cuáles son las enfermedades endémicas a las cuales son susceptibles las especies producidas en el predio. Las enfermedades endémicas deben incluir enfermedades parasitarias. Establecer las medidas de prevención y control para las enfermedades identificadas. Incluye: vacunación, desparasitación, diagnóstico y tratamiento. Describir las actividades de manejo que se realizan en el predio (castraciones, topizado, etc.). Cronograma de actividades.')
+              img(src='@/assets/curso/temas/tema6/3-m.svg', alt='Figura 9 Pasos para la realización de un plan sanitario Identificar cuáles son las enfermedades de control oficial a las cuales son susceptibles las especies producidas en el predio. Identificar cuáles son las enfermedades endémicas a las cuales son susceptibles las especies producidas en el predio. Las enfermedades endémicas deben incluir enfermedades parasitarias. Establecer las medidas de prevención y control para las enfermedades identificadas. Incluye: vacunación, desparasitación, diagnóstico y tratamiento. Describir las actividades de manejo que se realizan en el predio (castraciones, topizado, etc.). Cronograma de actividades.')
     separador
     #t_6_1.titulo-segundo.color-acento-contenido
       h2 6.1  Prevención de enfermedades de control oficial
 
     p(data-aos="fade-left") Las enfermedades de control oficial son aquellas que, de acuerdo con las normas internacionales adoptadas por Colombia, se establecen como de interés en el ámbito nacional y se disponen programas de prevención, control y erradicación. De igual manera, se establece su notificación obligatoria y registro.
-    p(data-aos="fade-left") Además, las enfermedades de control oficial que puedan sufrir las especies pecuarias, deben ser tratadas de inmediato por parte del predio y el ICA, quién es la entidad encargada de priorizar dichas enfermedades
-    p(data-aos="fade-left").mb-5 para evitar problemas mayores que impacten el proceso productivo, las enfermedades que han sido declaradas de control oficial en Colombia por el ICA y para las cuáles se debe vacunar obligatoriamente son las siguientes:
+    p(data-aos="fade-left").mb-5  Además, las enfermedades de control oficial que puedan sufrir las especies pecuarias, deben ser tratadas de inmediato por parte del predio y el ICA, quién es la entidad encargada de priorizar dichas enfermedades para evitar problemas mayores que impacten el proceso productivo, las enfermedades que han sido declaradas de control oficial en Colombia por el ICA y para las cuáles se debe vacunar obligatoriamente son las siguientes:
     
     TabsA.color-acento-botones.mb-5
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Fiebre Aftosa")
-        p.mb-5 Enfermedad viral, altamente contagiosa que puede afectar a los animales de pezuña hendida como los Bovinos, Ovinos, Caprinos, Porcinos, Bufalinos, Venados y Camélidos. El agente etiológico es un virus de la familia #[em Picornaviridae] genero #[em Aphtovirus] y actualmente existen siete serotipos el O, A, C, SAT1, SAT2, SAT3 y Asia1.
+        p.mb-5 Enfermedad viral, altamente contagiosa, que puede afectar a los animales de pezuña hendida como los Bovinos, Ovinos, Caprinos, Porcinos, Bufalinos, Venados y Camélidos. El agente etiológico es un virus de la familia #[em Picornaviridae] género #[em Aphtovirus] y actualmente existen siete serotipos, el O, A, C, SAT1, SAT2, SAT3 y Asia1.
         .tarjeta(style="background-color:#DBF9BD").p-4 
           .row.justify-content-center.align-items-center
             h4.mb-5 Sus signos clínicos más representativos son
@@ -82,8 +81,8 @@
               figure  
                 img(src='@/assets/curso/temas/tema6/4.svg', alt='')
             .col-10.mb-5
-              p Los signos clínicos suelen confundirse con los de la fiebre aftosa ya que los animales infectados presentan: presencia de ampollas y aftas en la lengua, paladar, encías, espacios interdigitales y/o ubre. Además de los mencionados anteriormente, los animales también pueden manifestar fiebre, salivación excesiva, inapetencia, disminución en la producción de carne o leche, mastitis, cojeras, deformación de los cascos.
-            p El tratamiento de esta enfermedad es estrictamente sintomático y se realiza limpiando las heridas con una solución antiséptica y brindar alimento blando a los animales que presenten lesiones en la boca.
+              p Los signos clínicos suelen confundirse con los de la fiebre aftosa, ya que los animales infectados presentan: presencia de ampollas y aftas en la lengua, paladar, encías, espacios interdigitales y/o ubre. Además de los mencionados anteriormente, los animales también pueden manifestar fiebre, salivación excesiva, inapetencia, disminución en la producción de carne o leche, mastitis, cojeras, deformación de los cascos.
+            p El tratamiento de esta enfermedad es estrictamente sintomático y se realiza limpiando las heridas con una solución antiséptica y brindar alimento blando a los animales que presenten lesiones en la boca. 
             
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Brucelosis")
         p.mb-5 Enfermedad infectocontagiosa, Zoonótica, crónica, producida por bacterias de morfología bacilar pertenecientes al género #[em Mycobacterium], incluyendo las especies #[em Bovis], Tuberculosis y #[em Avium]. Esta enfermedad afecta principalmente a los bovinos, ovinos, caprinos, cerdos, aves, humanos, entre otros. En los humanos se transmite por el consumo de leches crudas o quesos frescos. En los animales se transmite a través de secreciones o excreciones, también se pueden contaminar a través de objetos contaminados como suelo, agua, pasto, alimento o vía aerógena
@@ -97,7 +96,7 @@
               p Los principales síntomas son tos seca, debilidad progresiva, pérdida del apetito, fiebre fluctuante, dificultad para respirar (disnea), ganglios linfáticos grandes. Una de las lesiones más características es que en los pulmones se aprecian áreas de gran tamaño con apariencia caseificada y zonas de mineralización.
       
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Encefalopatía Espongiforme Bovina (EEB)")
-        p.mb-5 Comúnmente conocida con la enfermedad de las vacas locas, esta es una enfermedad Zoonótica, exótica en Colombia, progresiva y fatal del sistema nervioso bovino. Es causada por la acumulación de una proteína anormal en el tejido nervioso y denominada Prion y se distinguen dos formas: la primera es la forma clásica que se da en los bovinos tras la ingestión del prion en piensos contaminados, específicamente ocurre cuando el alimento contiene productos derivados de bovinos como la harina de sangre o de hueso. La segunda forma es la atípica que hace referencia a la aparición de la enfermedad de forma espontánea.
+        p.mb-5 Comúnmente conocida con la enfermedad de las vacas locas, esta es una enfermedad Zoonótica, exótica en Colombia, progresiva y fatal del sistema nervioso bovino. Es causada por la acumulación de una proteína anormal en el tejido nervioso y denominada Prion y se distinguen dos formas: la primera es la forma clásica que se da en los bovinos tras la ingestión del prion en piensos contaminados, específicamente ocurre cuando el alimento contiene productos derivados de bovinos como la harina de sangre o de hueso. La segunda forma es la atípica, que hace referencia a la aparición de la enfermedad de forma espontánea.
         .tarjeta(style="background-color:#DBF9BD").p-4 
           .row.justify-content-center.align-items-center
             h4.mb-5 Sus signos clínicos más representativos son
@@ -105,7 +104,7 @@
               figure  
                 img(src='@/assets/curso/temas/tema6/4.svg', alt='')
             .col-10.mb-5
-              p comportamiento agresivo o nervioso, falta de coordinación y dificultad para levantarse de la posición de reposo, hipersensibilidad al sonido y al tacto, movimientos espasmódicos, temblores, depresión, postura anormal, pérdida de peso, postura anormal de la cabeza, temblores y ataxia, desplazamientos en círculos, golpeo de miembros, lamido excesivo, bruxismo.
+              p Comportamiento agresivo o nervioso, falta de coordinación y dificultad para levantarse de la posición de reposo, hipersensibilidad al sonido y al tacto, movimientos espasmódicos, temblores, depresión, postura anormal, pérdida de peso, postura anormal de la cabeza, temblores y ataxia, desplazamientos en círculos, golpeo de miembros, lamido excesivo, bruxismo.
             
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Rabia silvestre")
         p.mb-5 Esta es una enfermedad viral, de tipo nervioso y que es prevenible de los mamíferos. El virus de la rabia infecta el sistema nervioso central y puede llegar a causar la muerte. Afecta a los animales domésticos como bovinos, equinos, ovinos, caprinos, porcinos, caninos y felinos. Se considera además una de las principales enfermedades Zoonóticas. La principal vía de contaminación es a través de la saliva de animales infectados, generalmente se da por mordeduras, aunque también se puede contaminar a través de las membranas mucosas (boca, nariz y ojos). En Colombia, los mayores transmisores de la enfermedad son los murciélagos hematófagos.
@@ -116,7 +115,7 @@
               figure  
                 img(src='@/assets/curso/temas/tema6/4.svg', alt='')
             .col-10.mb-5
-              p cambios en su comportamiento, caída e incoordinación del tren posterior, salivación abundante, ceguera, temblores musculares y parálisis. Los animales presentan además pérdida de peso progresivo y deshidratación y posteriormente la muerte. La prevención se realiza a través de vacunación y control de murciélagos hematófagos.
+              p Cambios en su comportamiento, caída e incoordinación del tren posterior, salivación abundante, ceguera, temblores musculares y parálisis. Los animales presentan además pérdida de peso progresivo y deshidratación y posteriormente la muerte. La prevención se realiza a través de vacunación y control de murciélagos hematófagos.
 
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Enfermedad de <em>Newcastle</em>")
         p.mb-5 Conocida comúnmente como Peste, Moquillo o Ahogazón. La enfermedad de #[em Newcastle] es una infección altamente contagiosa y con frecuencia severa, causada por un virus de la familia de los #[em Paramyxovirus], de distribución cosmopolita. Tiene tres presentaciones: Lentogénica o leve, Mesogénica o moderada, y Velogénica o muy virulenta, el virus puede sobrevivir por largos periodos a temperatura ambiente, especialmente en las heces, pero puede ser destruido por varios agentes físicos y químicos, no resiste pH ácidos ni la exposición a temperaturas de 60 °C por más de 30 min, es sensible al éter, formalina, amonios cuaternarios, agentes fenólicos y oxidantes, clorhexidina e hipoclorito de sodio (6 %). El período de incubación es de 2 a 15 días, pero para efectos del código terrestre de la OIE es de 21.
@@ -136,7 +135,7 @@
                       p.mb-0 Para profundizar más sobre la enfermedad de #[em Newcastle] se recomienda leer la cartilla “Conceptos importantes para Tener en Cuenta para el Control y Diagnostico de la Enfermedad de Newcastle.” disponible en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href='https://fenavi.org/wp-content/uploads/2019/04/CONCEPTOS-IMPORTANTES-NEWCASTLE.pdf' target="_blank")
-                        span Descargar 
+                        span Consultar 
                         i.fas.fa-file-download
 
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Encefalitis Equina Venezolana (EEV)")
@@ -210,7 +209,7 @@
       .col-md-9(data-aos="fade-right")
         p El área de cuarentena es un área física y específica de la producción en donde se deben cumplir unas condiciones de aislamiento de los animales que ingresan nuevos al predio, o que se sospecha que tienen alguna enfermedad o condición contagiosa.
         p En cuanto a los requisitos estructurales, esta área debe estar separada de otras zonas donde haya animales, y por supuesto, a una distancia prudente, dependiendo de la especie animal y la capacidad de difusión en el aire de posibles agentes patógenos.
-        p Esta zona debe estar delimitada por muros, vallas o alambrados, con puerta y un aviso en la entrada que alerte sobre la prohibición del ingreso de personal no autorizado. Estas medidas son muy importantes ya que se pueden diseminar los agentes patógenos por toda la producción. Debe tener una zona de cargue y descargue de animales y en lo posible contar con un vestier donde el operario pueda realizar el cambio de vestuario y botas y si se requiere, ducharse.
+        p Esta zona debe estar delimitada por muros, vallas o alambrados, con puerta y un aviso en la entrada que alerte sobre la prohibición del ingreso de personal no autorizado. Estas medidas son muy importantes, ya que se pueden diseminar los agentes patógenos por toda la producción. Debe tener una zona de cargue y descargue de animales y en lo posible contar con un vestier donde el operario pueda realizar el cambio de vestuario y botas y si se requiere, ducharse.
         
     
     separador
@@ -362,7 +361,7 @@
               figure
                 img(src='@/assets/curso/temas/tema6/26.svg', alt='Texto que describa la imagen')
             .col-md-10.mb-4.mb-md-0
-              p Esta vía implica la ruptura de las barreras del organismo, la piel y las mucosas para depositar las sustancias en tejidos o cavidades internas del organismo inyectando el medicamento a través de una punción utilizando aguja y jeringa desechables.
+              p Esta vía implica la ruptura de las barreras del organismo, la piel y las mucosas para depositar las sustancias en tejidos o cavidades internas del organismo, inyectando el medicamento a través de una punción utilizando aguja y jeringa desechables.
 
     p(data-aos="fade-left").mb-5 En relación a la vía #[b parenteral], hay varios elementos que se deben tener en cuenta, así como los diversos ángulos de aplicación de medicamentos, tal como se informa a continuación:
 
@@ -376,7 +375,7 @@
           .tarjeta(style="background-color:#DBF9BD").p-3(x="15.9%" y="16.15%" numero="+")
             .h5.mb-2 Intramuscular
             p Es la vía de aplicación más utilizada en la administración de medicamentos veterinarios. 
-            p La técnica es muy sencilla, se introduce la aguja de forma recta y profunda en el músculo a inyectar y se pone la jeringa para posteriormente, girarla en el sentido de las manecillas del reloj, con el fin de asegurar la aguja a la jeringa y evitar accidentes o desperdicio de producto, posteriormente, se debe empujar el embolo de la jeringa hacia atrás para confirmar que no se haya punzado algún vaso sanguíneo. Si el embolo se empuja hacia atrás y la jeringa se llena de sangre, se debe retirar la aguja y punzar nuevamente ya que se debe evitar punzar los vasos sanguíneos.
+            p La técnica es muy sencilla, se introduce la aguja de forma recta y profunda en el músculo a inyectar y se pone la jeringa para posteriormente, girarla en el sentido de las manecillas del reloj, con el fin de asegurar la aguja a la jeringa y evitar accidentes o desperdicio de producto, posteriormente, se debe empujar el émbolo de la jeringa hacia atrás para confirmar que no se haya punzado algún vaso sanguíneo. Si el émbolo se empuja hacia atrás y la jeringa se llena de sangre, se debe retirar la aguja y punzar nuevamente, ya que se debe evitar punzar los vasos sanguíneos.
 
           .tarjeta(style="background-color:#DBF9BD").p-3(x="40.9%" y="16.15%" numero="+")
             .h5.mb-2 Subcutánea
@@ -385,7 +384,7 @@
 
           .tarjeta(style="background-color:#DBF9BD").p-3(x="61.15%" y="17.7%" numero="+")
             .h5.mb-2 Intravenosa
-            p Esta vía de aplicación se utiliza para conseguir un efecto rápido. El procedimiento consiste en sujetar al animal, aplicando la técnica de sujeción específica para cada animal, se procede a desinfectar la zona que se va a punzar, es recomendable que antes de realizar la punción, se aplique una ligadura o haga compresión sobre la zona (esto facilitará la observación y localización de la vena), por último, se procede a realizar la punción con el bisel de la aguja hacia arriba y de manera horizontal a la vena. Para comprobar si fue exitoso el procedimiento, se empuja el embolo de la jeringa hacía atrás, si se está en la vena, el contenido de la jeringa se mezclará con sangre, en caso contrario, se debe volver a realizar el procedimiento. Finalmente, después de estar seguros de que la punción se hizo directamente en la vena, se procede a aplicar el medicamento de forma lenta.
+            p Esta vía de aplicación se utiliza para conseguir un efecto rápido. El procedimiento consiste en sujetar al animal, aplicando la técnica de sujeción específica para cada animal, se procede a desinfectar la zona que se va a punzar, es recomendable que antes de realizar la punción, se aplique una ligadura o haga compresión sobre la zona (esto facilitará la observación y localización de la vena), por último, se procede a realizar la punción con el bisel de la aguja hacia arriba y de manera horizontal a la vena. Para comprobar si fue exitoso el procedimiento, se empuja el émbolo de la jeringa hacia atrás, si se está en la vena, el contenido de la jeringa se mezclará con sangre, en caso contrario, se debe volver a realizar el procedimiento. Finalmente, después de estar seguros de que la punción se hizo directamente en la vena, se procede a aplicar el medicamento de forma lenta.
 
           .tarjeta(style="background-color:#DBF9BD").p-3(x="78.9%" y="22.2%" numero="+")
             .h5.mb-2 Intradérmica
@@ -537,7 +536,7 @@
                 <hr style="border:15px;">
               li 
                 i.fas.fa-atom(style="color:#8D007B")
-                | Los médicos veterinarios, médicos veterinarios zootecnistas o profesionales en el área que atiendan producciones o presten asistencia técnica ya sea pública o privada. 
+                | Los médicos veterinarios, médicos veterinarios zootecnistas o profesionales en el área que atiendan producciones o presten asistencia técnica, ya sea pública o privada. 
                 <hr style="border:15px;">
               li 
                 i.fas.fa-atom(style="color:#8D007B")

@@ -11,7 +11,7 @@
       .col-2
         img(src='@/assets/curso/temas/tema4/1.svg')
       .col-10
-        p La legislación laboral en Colombia es supervisada por el Ministerio del Trabajo que imparte las normas y ejerce la supervisión de su cumplimiento; en la actualidad las organizaciones están en la obligación de capacitar a los trabajadores de forma periódica en aspectos relacionados con la seguridad y prevención de accidentes laborales. Del mismo modo, los empleados deben cumplir con los lineamientos de prevención de riesgos y su capacitación en este orden.
+        p La legislación laboral en Colombia es supervisada por el Ministerio del Trabajo, que imparte las normas y ejerce la supervisión de su cumplimiento; en la actualidad las organizaciones están en la obligación de capacitar a los trabajadores de forma periódica en aspectos relacionados con la seguridad y prevención de accidentes laborales. Del mismo modo, los empleados deben cumplir con los lineamientos de prevención de riesgos y su capacitación en este orden.
 
 
 
@@ -55,7 +55,7 @@
                   .col-12
                     img(src='@/assets/curso/temas/tema4/6.svg' alt='AvatarTop')
                 h2.text-center Estabilidad, salud y seguridad
-                p.text-center Pero además deben gozar de todos los beneﬁcios que la ley colombiana ha establecido para los trabajadores como lo son los programas de bienestar, salud y seguridad en el trabajo, prestaciones de salud, riesgos laborales, pensión, entre otras. Ya que estas garantizan que las personas que laboran dentro de las industrias pecuarias gozan de condiciones necesarias para ejercer su labor de forma idónea y que contribuirán en los procesos productivos por su justa remuneración.
+                p.text-center Pero además deben gozar de todos los beneﬁcios que la ley colombiana ha establecido para los trabajadores, como lo son los programas de bienestar, salud y seguridad en el trabajo, prestaciones de salud, riesgos laborales, pensión, entre otras. Ya que estas garantizan que las personas que laboran dentro de las industrias pecuarias gozan de condiciones necesarias para ejercer su labor de forma idónea y que contribuirán en los procesos productivos por su justa remuneración.
 
 
     separador

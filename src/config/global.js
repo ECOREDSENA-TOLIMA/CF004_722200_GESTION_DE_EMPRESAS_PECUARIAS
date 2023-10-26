@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Programación de la producción pecuaria',
     descripcionCurso:
-      'La programación de la producción es un tema administrativo de gran importancia en donde se incluyen procesos y labores de toda la unidad productiva, tales como las buenas prácticas, el reconocimiento de las enfermedades de control oficial, los sistemas productivos, entre otras.',
+      'La programación de la producción pecuaria, es un tema administrativo de gran importancia en donde se incluyen procesos y labores de toda la unidad productiva, tales como las buenas prácticas, el reconocimiento de las enfermedades de control oficial, los sistemas productivos, entre otras.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -380,6 +380,12 @@ export default {
       referencia:
         'Scott, C. L. (2009). Mayo Clinic Family Health Book, Libro de Salud Familiar de Mayo Clinic, 5.ª edición',
       link: '',
+    },
+    {
+      referencia:
+        'Rincón Narváez, J. (2017). Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. ',
+      link:
+        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
     },
   ],
   creditos: [

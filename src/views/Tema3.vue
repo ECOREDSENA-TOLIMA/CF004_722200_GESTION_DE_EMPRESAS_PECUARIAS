@@ -32,7 +32,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             
-            p Desde la cadena primaria hasta llegar al consumidor, protegiendo la salud pública humana y animal; cada país afiliado, tiene la libertad de establecer sus leyes basados en las evidencias cientíﬁcas y en los parámetros generados por la comisión del #[em Codex Alimentarius], la Organización Mundial de  Sanidad Animal (OIE), y la Convención Internacional de protección Fitosanitaria (CIPF).
+            p Desde la cadena primaria hasta llegar al consumidor, protegiendo la salud pública humana y animal; cada país afiliado, tiene la libertad de establecer sus leyes basadas en las evidencias cientíﬁcas y en los parámetros generados por la comisión del #[em Codex Alimentarius], la Organización Mundial de  Sanidad Animal (OIE), y la Convención Internacional de protección Fitosanitaria (CIPF).
         
           .col-md-6
             figure
@@ -41,7 +41,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Políticas nacionales
-            p En Colombia la adopción de estas políticas se da a través de los documentos CONPES 3375 que es la Política Nacional de Sanidad Agropecuaria e Inocuidad de Alimentos para el Sistema de Medidas Sanitarias y Fitosanitarias, CONPES 3376 de 2010 Política Sanitaria y de Inocuidad para las Cadenas de la Carne y de la Leche.
+            p En Colombia la adopción de estas políticas se da a través de los documentos CONPES 3375, que es la Política Nacional de Sanidad Agropecuaria e Inocuidad de Alimentos para el Sistema de Medidas Sanitarias y Fitosanitarias, CONPES 3376 de 2010 Política Sanitaria y de Inocuidad para las Cadenas de la Carne y de la Leche.
         
           .col-md-6
             figure
@@ -50,7 +50,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Cadena porcícola
-            p CONPES 3458 de 2007 Política Nacional de Sanidad e Inocuidad para la cadena porcícola, CONPES 3468 de 2007 Política Nacional de Sanidad e Inocuidad Para la Cadena Avícola, asignando además funciones a las principales instituciones que hacen parte del sistema en cada eslabón de la cadena productiva siendo garantes de que estas se apliquen de forma correcta. 
+            p CONPES 3458 de 2007, Política Nacional de Sanidad e Inocuidad para la cadena porcícola, CONPES 3468 de 2007, Política Nacional de Sanidad e Inocuidad Para la Cadena Avícola, asignando además funciones a las principales instituciones que hacen parte del sistema en cada eslabón de la cadena productiva siendo garantes de que estas se apliquen de forma correcta. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/5.png', alt='Texto que describa la imagen')
@@ -126,7 +126,7 @@
                   | Plan sanitario.
                 li 
                   i.lista-ul__vineta
-                  | Mantener áreas de cuarentena, manejo de animales enfermos, control 
+                  | Mantener áreas de cuarentena, manejo de animales enfermos, control.
                 li 
                   i.lista-ul__vineta
                   | Animales nuevos y enfermos.
@@ -138,7 +138,7 @@
                   | Plan de bioseguridad.
                 li 
                   i.lista-ul__vineta
-                  | Mantenimiento de áreas vulnerables, manejo de instalaciones, materias 
+                  | Mantenimiento de áreas vulnerables, manejo de instalaciones, materias.
                 li 
                   i.lista-ul__vineta
                   | Primas, elementos y maquinaria en la producción.
@@ -164,7 +164,7 @@
               ul.lista-ul
                 li 
                   i.lista-ul__vineta
-                  | Plan de manejo ambiental manejo integral de residuos.
+                  | Plan de manejo ambiental, manejo integral de residuos.
                 li 
                   i.lista-ul__vineta
                   | Prevención, mitigación y reparación de riesgos.
@@ -202,7 +202,7 @@
                   | Cuidar los tiempos de retiro de medicamentos, prevenir residuos en productos.
                 li 
                   i.lista-ul__vineta
-                  | Alimentos y agua de calidad, libre de contaminantes, biológicos, quimicos o ﬁsicos.
+                  | Alimentos y agua de calidad, libre de contaminantes, biológicos, químicos o físicos.
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         .row.justify-content-center.align-items-center
@@ -221,7 +221,7 @@
                   | La productiva mejora de la mano de las practicas de bienestar y de la mano de obra.
                 li 
                   i.lista-ul__vineta
-                  | Tener en cuenta la etología y naturaleza de los animales utilizados en la produccion para brindarles condiciones de bienestar que aumenten la producción.
+                  | Tener en cuenta la etología y naturaleza de los animales utilizados en la producción para brindarles condiciones de bienestar que aumenten la producción.
                 li 
                   i.lista-ul__vineta
                   | Capacitar al personal para que tenga acciones apropiadas en los procesos productivos.
@@ -275,7 +275,7 @@
                       | Procedimiento de identiﬁcación y atención a cambios de comportamiento y adaptación o aclimatación - bienestar animal.
                     li 
                       i.lista-ul__vineta
-                      | Aclimatación - bienestar animal.<br>Bioseguridad.
+                      | Plan sanitario y protocolo de bioseguridad.
                     li 
                       i.lista-ul__vineta
                       | Ingreso y manejo de material genético.
@@ -311,13 +311,13 @@
                       | Formulario o recetario uso de medicamentos de control especial.
                     li 
                       i.lista-ul__vineta
-                      | Instructivo manejo sanitario enfermedades de control oﬁcial.
+                      | Instructivo manejo sanitario de enfermedades de control oﬁcial.
                     li 
                       i.lista-ul__vineta
                       | Resultado del análisis del agua.
                     li 
                       i.lista-ul__vineta
-                      | Exámen médico personal.
+                      | Examen médico personal.
                     li 
                       i.lista-ul__vineta
                       | Certiﬁcados de capacitación.
@@ -337,7 +337,7 @@
                       | Instructivo manejo sanitario enfermedades de control oﬁcial.
                     li 
                       i.lista-ul__vineta
-                      | Autorización aplicación de medicamentos y pequeñas intervenciones quirúrgicas.
+                      | Autorización para la aplicación de medicamentos y pequeñas intervenciones quirúrgicas.
                     li 
                       i.lista-ul__vineta
                       | Resultado del análisis del agua.
@@ -349,16 +349,25 @@
                   ul.lista-ul
                     li 
                       i.lista-ul__vineta
-                      | Manejo integral de plagas.
+                      | Registro Único de Vacunación RUV.
                     li 
                       i.lista-ul__vineta
-                      | Cuarentena y adquisición de animales.
+                      | Prescripciones medicamentos veterinarios - fórmula médica.
                     li 
                       i.lista-ul__vineta
-                      | Procedimiento de identiﬁcación y atención a cambios de comportamiento - bienestar animal.
+                      | Formulario o recetario uso de medicamentos de control especial.
                     li 
                       i.lista-ul__vineta
-                      | Plan sanitario.
+                      | Instructivo manejo sanitario enfermedades de control oficial.
+                    li 
+                      i.lista-ul__vineta
+                      | Examen médico personal. 
+                    li 
+                      i.lista-ul__vineta
+                      | Certificados de capacitación. 
+                    li 
+                      i.lista-ul__vineta
+                      | Seguridad social.
               tr
                 td #[b REGISTROS]
                 td

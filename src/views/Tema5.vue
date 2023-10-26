@@ -31,15 +31,15 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-10
         AcordionA(tipo="b" clase-tarjeta="tarjeta")(style="background-color: #DBF9BD")
-          .row(titulo="El plan agregado de producción o Production Plan (PP)")
+          .row(titulo="El plan agregado de producción o <em>Production Plan</em> (PP)")
             .col.mb-4.mb-md-0
               p Se extiende a un año y tiene como objeto de planiﬁcación parámetros cuantitativos muy agregados (número de unidades producibles, toneladas de producto acabado, etc., a nivel total o por familias de producto). El objetivo del plan agregado es conciliar la demanda de capacidad productiva (que depende de la demanda de mercado) con la disponibilidad efectiva (expresada en horas-hombre o máquina).
 
-          .row(titulo="El plan principal de producción o Master Production Schedule (MPS)")
+          .row(titulo="El plan principal de producción o <em>Master Production Schedule</em> (MPS)")
             .col
               p Concierne a un horizonte temporal limitado (3-4 meses) y tiene como objeto cada uno de los productos acabados. En particular, el MPS tiene el objetivo de dimensionar todos los lotes productivos.
               
-          .row(titulo="El plan ﬁnal de monitorización o Final Assembly Schedule (FAS)")
+          .row(titulo="El plan ﬁnal de monitorización o <em>Final Assembly Schedule</em> (FAS)")
             .col
               p Concierne a un horizonte temporal muy breve (1 mes) y tiene como objeto el ensamblaje-conﬁguración del producto acabado. La tarea típica del plan es la selección de los modos de elaboración de los pedidos.
 
@@ -79,7 +79,7 @@
       .col-10
        .bloque-texto-d.color-gris.p-4
           .bloque-texto-d__texto.mb-2
-            p.text-regular Para iniciar se debe definir principalmente la cantidad de aspectos de la producción, especificando a cuál se quiere incursionar, si en la equina, porcina, ovina, avícola, bovina o caprina y qué actividad productiva se va a ejecutar: leche, crías y levante, producción de carne, huevo, lana, etc. Pero además qué tipo de sistema se va a utilizar: intensivo, extensivo, semiintensivo, en piso, pastoreo por franjas, sistemas silvopastoriles, en corral, etc., si la empresa es propia, en compañía o por arrendamiento, etc. Una vez aclarado estos puntos se podrán precisar la ubicación más apropiada para las instalaciones de la unidad productiva, así como las instalaciones y sus adecuaciones, elementos, materiales, insumos, razas más apropiadas de animales, cantidad de los mismos, entre otras cosas.
+            p.text-regular Para iniciar se debe definir principalmente la cantidad de aspectos de la producción, especificando a cuál se quiere incursionar, si en la equina, porcina, ovina, avícola, bovina o caprina y qué actividad productiva se va a ejecutar: leche, crías y levante, producción de carne, huevo, lana, etc. Pero además qué tipo de sistema se va a utilizar: intensivo, extensivo, semi intensivo, en piso, pastoreo por franjas, sistemas silvopastoriles, en corral, etc., si la empresa es propia, en compañía o por arrendamiento, etc. Una vez aclarado estos puntos se podrán precisar la ubicación más apropiada para las instalaciones de la unidad productiva, así como las instalaciones y sus adecuaciones, elementos, materiales, insumos, razas más apropiadas de animales, cantidad de los mismos, entre otras cosas.
 
     p(data-aos="fade-left").mb-5 Ya a partir de aquí, se pueden tener en cuenta las siguientes especificaciones para programar la producción:
     
@@ -88,15 +88,15 @@
         ul.lista-ul--color
           li 
             i.fas.fa-check
-            | #[b Plan de acción.] En esta herramienta se plasman y agendan las actividades diarias, semanales, mensuales y anuales trazándolas en una línea de tiempo determinada, en donde preguntas como qué se va a producir, qué productos se va a ofrecer y cómo, cuál será la línea de comercialización. Además, hay otros procesos que deben ser realizados como el registro de costos, gastos, presupuesto y en cuanto a personal conocer el número de trabajadores, perfiles, cargos, remuneraciones, horarios y demás.
+            | #[b Plan de acción.] En esta herramienta se plasman y agendan las actividades diarias, semanales, mensuales y anuales trazándolas en una línea de tiempo determinada, en donde se responda a cuestionamientos como: ¿qué se va a producir?, ¿qué productos se va a ofrecer y cómo?, ¿cuál será la línea de comercialización? Además, hay otros procesos que deben ser realizados como el registro de costos, gastos, presupuesto y en cuanto a personal, conocer el número de trabajadores, perfiles, cargos, remuneraciones, horarios y demás.
           li 
             i.fas.fa-check
-            | #[b Ejecución.] Luego de que se hayan realizado con éxito las actividades anteriores se debe dar marcha a la ejecución del plan procurando que todo sea exitoso. También es posible realizar cambios y modificaciones en caso de que ciertos aspectos o actividades no estén funcionando, hasta llegar a desarrollar un plan o estrategia efectiva para su modelo de negocio.
-              
+            | #[b Ejecución.] Luego de que se hayan realizado con éxito las actividades anteriores, se debe dar marcha a la ejecución del plan procurando que todo sea exitoso. También es posible realizar cambios y modificaciones en caso de que ciertos aspectos o actividades no estén funcionando, hasta llegar a desarrollar un plan o estrategia efectiva para su modelo de negocio.
+           
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 Labores pecuarias
 
-    p(data-aos="fade-left") Las labores pecuarias se refieren a esas actividades relacionadas con la fase económica de la ganadería. Son una derivación principal de las labores agropecuarias y forman parte integral del sector primario de la economía. Estas labores cumplen un papel de vital importancia en las comunidades rurales ayudándoles a mejorar la alimentación, ingresos, productividad, transporte, trabajo, entre otras, lo cual se traduce en bienestar.
+    p(data-aos="fade-left") Las labores pecuarias se refieren a esas actividades relacionadas con la fase económica de la ganadería. Son una derivación principal de las labores agropecuarias y forman parte integral del sector primario de la economía. Estas labores cumplen un papel de vital importancia en las comunidades rurales, ayudándoles a mejorar la alimentación, ingresos, productividad, transporte, trabajo, entre otras, lo cual se traduce en bienestar.
     p(data-aos="fade-left").mb-5 Desde el punto de vista objetivo las labores pecuarias ocupan un lugar importante en los siguientes aspectos:
 
     .titulo-sexto.color-acento-contenido
