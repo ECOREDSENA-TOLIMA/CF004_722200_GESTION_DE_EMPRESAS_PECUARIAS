@@ -135,7 +135,7 @@
                       p.mb-0 Para profundizar más sobre la enfermedad de #[em Newcastle] se recomienda leer la cartilla “Conceptos importantes para Tener en Cuenta para el Control y Diagnostico de la Enfermedad de Newcastle.” disponible en el material complementario.
                     .col-sm-auto
                       a.boton.color-acento-botones(href='https://fenavi.org/wp-content/uploads/2019/04/CONCEPTOS-IMPORTANTES-NEWCASTLE.pdf' target="_blank")
-                        span Consultar 
+                        span Descargar 
                         i.fas.fa-file-download
 
       .tarjeta(style="background-color:#F2FCE7").p-4(titulo="Encefalitis Equina Venezolana (EEV)")
@@ -194,7 +194,7 @@
                   p.mb-0 La alerta temprana es la forma de llamar a las acciones que deben ser tenidas en cuenta con prioridad para el beneficio de las diferentes fincas evitando la propagación de alguna enfermedad o virus; por ello, se recomienda contactar de inmediato al Instituto para reportar la urgencia en caso de evidenciar cualquiera de las enfermedades vistas hasta el momento, directamente en la página del ICA
                 .col-sm-auto
                   a.boton.color-acento-botones(href='https://www.ica.gov.co/' target="_blank")
-                    span Descargar 
+                    span Consultar 
                     i.fas.fa-file-download
 
     separador
