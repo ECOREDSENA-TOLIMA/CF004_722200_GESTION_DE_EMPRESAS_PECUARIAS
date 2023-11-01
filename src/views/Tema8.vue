@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 8
-      h1 #[em Softwares] pecuarios
+      h1 #[em Software] pecuarios
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-3

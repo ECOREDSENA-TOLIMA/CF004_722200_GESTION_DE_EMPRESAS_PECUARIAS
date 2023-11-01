@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 A continuación, se describen los temas principales del componente formativo, Requerimientos y necesidades en la empresa pecuaria, en el cuál se resaltan temas como la normativa para crear empresas pecuarias, incluyendo su clasificación, recursos, presupuestos, seguridad industrial y salud ocupacional, como también los temas referentes a la producción, plan de mercadeo, costos, clasificación, órdenes de producción:
+    p.mb-5 A continuación, se describen los temas principales del componente formativo, requerimientos y necesidades en la empresa pecuaria, en el cual se observan aspectos importantes sobre los sistemas de producción pecuaria, y sus buenas prácticas, parte de legislación laboral, el plan de producción, el sanitario y de alimentación, como también lo referente a los avances en #[em software pecuarios.]
 
     .row.justify-content-center
       .col-lg-10.mb-5

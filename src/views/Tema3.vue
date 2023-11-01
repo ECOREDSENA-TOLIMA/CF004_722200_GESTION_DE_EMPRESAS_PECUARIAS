@@ -106,7 +106,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2 Implementación
 
-    p(data-aos="fade-left").mb-5 Para hacer la implementación de las buenas prácticas ganaderas se debe realizar una planeación previa por escrito relacionando las actividades específicas de la unidad productiva, con el fin de ser utilizada como guía de cada proceso y este protocolo pueda ser verificado a través de una plantilla, la cual corrobore que la esta ha sido realizada de forma correcta. En general, los ítems que se deben tener en cuenta son: 
+    p(data-aos="fade-left").mb-5 Para hacer la implementación de las buenas prácticas ganaderas se debe realizar una planeación previa por escrito, relacionando las actividades específicas de la unidad productiva, con el fin de ser utilizada como guía de cada proceso y este protocolo pueda ser verificado a través de una plantilla, la cual corrobora que ha sido realizada de forma correcta. En general, los ítems que se deben tener en cuenta son: 
 
     .row.justify-content-center.align-items-center.mb-5p(data-aos="fade-right")
       .col-10
