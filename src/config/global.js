@@ -170,7 +170,7 @@ export default {
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo: '<em>Softwares</em> pecuarios',
+        titulo: '<em>Software</em> pecuarios',
         desarrolloContenidos: true,
       },
     ],
